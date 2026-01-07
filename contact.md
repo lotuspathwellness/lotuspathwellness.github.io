@@ -6,7 +6,7 @@ subtitle: Get in touch
 
 ### Reach Out
 
-We'd love to hear from you.
+I'd love to hear from you.
 
 **Email:** [lotuspathw@gmail.com](mailto:lotuspathw@gmail.com)
 
@@ -17,4 +17,3 @@ We'd love to hear from you.
 ### Location
 
 Metro Vancouver Area, British Columbia
-*Add your location or service area here.*

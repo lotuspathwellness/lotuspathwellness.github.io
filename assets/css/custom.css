@@ -25,8 +25,8 @@
 
 @media (min-width: 1200px) {
   .navbar-custom .navbar-brand-logo img {
-    height: 160px;
-    width: 160px;
+    height: 180px;
+    width: 180px;
   }
 }
 
@@ -97,30 +97,25 @@ body {
 
 @media (max-width: 1199px) {
   .navbar-custom .navbar-brand-logo {
-    position: relative;
-    left: auto;
-    top: auto;
-    transform: none;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-20%);
+    z-index: 1000;
   }
   .navbar-custom .navbar-brand-logo img {
-    height: 60px;
-    width: 60px;
+    height: 90px;
+    width: 90px;
   }
   .navbar-brand-text {
-    margin-left: 10px;
+    margin-left: 100px;
   }
   .brand-title {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
   }
   .brand-subtitle {
-    font-size: 0.45rem;
-    letter-spacing: 0.25rem;
-  }
-}
-
-@media (max-width: 576px) {
-  .brand-subtitle {
-    display: none;
+    font-size: 0.4rem;
+    letter-spacing: 0.2rem;
   }
 }
 
