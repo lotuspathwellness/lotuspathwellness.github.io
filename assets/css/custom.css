@@ -107,18 +107,18 @@ body {
   .navbar-custom.top-nav-regular .navbar-brand-logo {
     position: absolute;
     left: 10px;
-    top: 50%;
-    transform: translateY(-20%);
+    top: 5px;
+    transform: none;
     z-index: 1000;
   }
   .navbar-custom .navbar-brand-logo img,
   .navbar-custom.top-nav-short .navbar-brand-logo img,
   .navbar-custom.top-nav-regular .navbar-brand-logo img {
-    height: 90px !important;
-    width: 90px !important;
+    height: 110px !important;
+    width: 110px !important;
   }
   .navbar-brand-text {
-    margin-left: 100px;
+    margin-left: 120px;
   }
   .brand-title {
     font-size: 1.3rem;
