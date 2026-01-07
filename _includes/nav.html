@@ -38,6 +38,20 @@
           </a>
         </li>
       {%- endif -%}
+      {% if site.social-network-links.email %}
+        <li class="nav-item">
+          <a class="nav-link" href="mailto:{{ site.social-network-links.email }}" title="Email">
+            <span class="fa fa-envelope"></span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.social-network-links.instagram %}
+        <li class="nav-item">
+          <a class="nav-link" href="https://instagram.com/{{ site.social-network-links.instagram }}" title="Instagram">
+            <span class="fab fa-instagram"></span>
+          </a>
+        </li>
+      {% endif %}
     </ul>
   </div>
 
