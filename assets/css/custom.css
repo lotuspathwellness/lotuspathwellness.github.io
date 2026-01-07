@@ -95,8 +95,31 @@ body {
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1199px) {
+  .navbar-custom .navbar-brand-logo {
+    position: relative;
+    left: auto;
+    top: auto;
+    transform: none;
+  }
+  .navbar-custom .navbar-brand-logo img {
+    height: 60px;
+    width: 60px;
+  }
   .navbar-brand-text {
+    margin-left: 10px;
+  }
+  .brand-title {
+    font-size: 1.2rem;
+  }
+  .brand-subtitle {
+    font-size: 0.45rem;
+    letter-spacing: 0.25rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .brand-subtitle {
     display: none;
   }
 }
