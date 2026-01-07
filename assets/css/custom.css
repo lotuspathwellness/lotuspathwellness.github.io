@@ -62,28 +62,29 @@ body {
 }
 
 .brand-title {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-weight: 800;
-  color: #5B4B8A;
-  letter-spacing: 0.1rem;
-  line-height: 1.2;
+  color: #5D4E8C;
+  letter-spacing: 0.05rem;
+  line-height: 1.1;
 }
 
 .brand-subtitle {
-  font-size: 0.85rem;
+  font-size: 0.6rem;
   font-weight: 400;
-  color: #5B4B8A;
-  letter-spacing: 0.3rem;
+  color: #5D4E8C;
+  letter-spacing: 0.45rem;
   text-align: center;
+  margin-top: 2px;
 }
 
 @media (min-width: 1200px) {
   .brand-title {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
   .brand-subtitle {
-    font-size: 1rem;
-    letter-spacing: 0.4rem;
+    font-size: 0.75rem;
+    letter-spacing: 0.55rem;
   }
 }
 
