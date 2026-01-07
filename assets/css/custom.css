@@ -138,14 +138,16 @@ body {
 }
 
 @media (max-width: 1199px) {
-  .navbar-custom .nav-link.btn-primary {
-    margin-right: 15px;
-  }
   .navbar-custom .navbar-nav {
     text-align: right;
+    padding-right: 15px;
   }
   .navbar-custom .navbar-nav .nav-link {
     text-align: right;
+  }
+  .navbar-custom .nav-link.btn-primary {
+    margin-left: 15px;
+    text-align: center;
   }
 }
 
