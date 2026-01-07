@@ -1,19 +1,51 @@
+.navbar-custom {
+  background-color: #F5F0FA !important;
+  min-height: 80px;
+}
+
+.navbar-custom .navbar-brand-logo {
+  position: relative;
+  z-index: 100;
+}
+
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 4rem;
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  padding: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  object-fit: contain;
+  margin-top: 10px;
 }
 
 @media (min-width: 1200px) {
   .navbar-custom .navbar-brand-logo img {
-    height: 5rem;
+    height: 110px;
+    width: 110px;
+    margin-top: 15px;
   }
 }
 
 .navbar-custom .navbar-nav .nav-item {
   font-size: 1rem;
+  letter-spacing: 0.05rem;
 }
 
 .navbar-custom .navbar-nav .nav-link {
   font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+body {
+  padding-top: 100px;
+}
+
+@media (min-width: 1200px) {
+  body {
+    padding-top: 120px;
+  }
 }
