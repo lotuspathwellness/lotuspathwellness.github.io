@@ -8,7 +8,7 @@ subtitle: Get in touch
 
 We'd love to hear from you.
 
-**Email:** info@lotuspathwellness.com
+**Email:** [lotuspathw@gmail.com](mailto:lotuspathw@gmail.com)
 
 **Phone:** 587-707-7476
 
