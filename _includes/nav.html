@@ -52,6 +52,13 @@
           </a>
         </li>
       {% endif %}
+      {% if site.social-network-links.calendly %}
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary btn-sm ml-2" href="https://calendly.com/{{ site.social-network-links.calendly }}" title="Book Appointment" style="color: white; border-radius: 20px; padding: 5px 15px;">
+            Book Now
+          </a>
+        </li>
+      {% endif %}
     </ul>
   </div>
 
