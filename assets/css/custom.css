@@ -1,0 +1,19 @@
+.navbar-custom .navbar-brand-logo img,
+.navbar-custom.top-nav-short .navbar-brand-logo img,
+.navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
+  height: 4rem;
+}
+
+@media (min-width: 1200px) {
+  .navbar-custom .navbar-brand-logo img {
+    height: 5rem;
+  }
+}
+
+.navbar-custom .navbar-nav .nav-item {
+  font-size: 1rem;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  font-size: 1rem;
+}
