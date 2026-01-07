@@ -137,6 +137,18 @@ body {
   margin-top: 10px;
 }
 
+@media (max-width: 1199px) {
+  .navbar-custom .nav-link.btn-primary {
+    margin-right: 15px;
+  }
+  .navbar-custom .navbar-nav {
+    text-align: right;
+  }
+  .navbar-custom .navbar-nav .nav-link {
+    text-align: right;
+  }
+}
+
 .navbar-custom .nav-link.btn-primary:hover {
   background-color: #9B7BC6 !important;
   border-color: #9B7BC6 !important;
