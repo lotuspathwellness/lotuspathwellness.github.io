@@ -25,8 +25,8 @@
 
 @media (min-width: 1200px) {
   .navbar-custom .navbar-brand-logo img {
-    height: 130px;
-    width: 130px;
+    height: 160px;
+    width: 160px;
   }
 }
 
@@ -60,7 +60,7 @@ body {
 
 @media (min-width: 1200px) {
   .navbar-brand-text {
-    margin-left: 150px;
+    margin-left: 180px;
   }
 }
 
@@ -105,7 +105,7 @@ body {
   background-color: #7B5BA6 !important;
   border-color: #7B5BA6 !important;
   color: white !important;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .navbar-custom .nav-link.btn-primary:hover {
