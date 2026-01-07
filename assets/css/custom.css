@@ -49,3 +49,46 @@ body {
     padding-top: 120px;
   }
 }
+
+.navbar-brand-text {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none !important;
+  margin-left: 15px;
+}
+
+.navbar-brand-text:hover {
+  text-decoration: none !important;
+}
+
+.brand-title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #5B4B8A;
+  letter-spacing: 0.1rem;
+  line-height: 1.2;
+}
+
+.brand-subtitle {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #5B4B8A;
+  letter-spacing: 0.3rem;
+  text-align: center;
+}
+
+@media (min-width: 1200px) {
+  .brand-title {
+    font-size: 2rem;
+  }
+  .brand-subtitle {
+    font-size: 1rem;
+    letter-spacing: 0.4rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .navbar-brand-text {
+    display: none;
+  }
+}
