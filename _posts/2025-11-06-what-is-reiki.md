@@ -10,7 +10,7 @@ author: Lotus Path Wellness
 
 Reiki is a Japanese energy healing technique that promotes relaxation, reduces stress, and supports the body's natural ability to heal. The word "Reiki" comes from two Japanese words: *Rei* (universal) and *Ki* (life energy).
 
-![Reiki healing session](/assets/img/reiki-hands.png){: .mx-auto.d-block :}
+![Reiki healing session](/assets/img/reiki-hands.jpg){: .mx-auto.d-block :}
 
 ## How Does Reiki Work?
 
