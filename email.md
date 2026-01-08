@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Send a Message
+title: Contact Me
 ---
 
 <form action="https://formspree.io/f/mgovgngk" method="POST" class="contact-form">
