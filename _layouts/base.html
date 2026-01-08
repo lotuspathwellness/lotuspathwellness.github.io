@@ -29,6 +29,19 @@ common-js:
 
   {% include nav.html %}
 
+  <div id="thank-you-banner" style="display: none; background-color: #7B5BA6; color: white; padding: 15px; text-align: center; position: relative;">
+    Thank you for contacting us! Your message has been submitted.
+    <button onclick="document.getElementById('thank-you-banner').style.display='none'" style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%); background: none; border: none; color: white; font-size: 20px; cursor: pointer; padding: 0; line-height: 1;">&times;</button>
+  </div>
+
+  <script>
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('submitted') === 'true') {
+    document.getElementById('thank-you-banner').style.display = 'block';
+    window.history.replaceState({}, document.title, window.location.pathname);
+  }
+  </script>
+
   {{ content }}
 
   {% include footer.html %}

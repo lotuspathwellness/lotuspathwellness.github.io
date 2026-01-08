@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Welcome to Lotus Path Wellness
 ---
-
-## Welcome to Lotus Path Wellness
 
 This is a space for gentle healing, intuitive connection, and soul-led transformation.
 

@@ -15,7 +15,7 @@ Receive Reiki wherever you are, in the comfort of your own space. Each session i
 
 ## Pricing
 
-I offer Reiki sessions for **$77 per 45 minutes**, creating a space for relaxation, balance, and well-being.
+I offer Reiki sessions for $77 per 45 minutes, creating a space for relaxation, balance, and well-being.
 
 ---
 
