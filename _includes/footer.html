@@ -10,10 +10,12 @@
           {% endfor %}
         </div>
       {% endif %}
-      <p class="footer-links text-muted" style="margin-bottom: 0.5rem;">
+      <p class="footer-links text-muted" style="margin-bottom: 0.5rem; text-align: center;">
         <a href="{{ '/terms' | relative_url }}">Terms</a>
         &nbsp;&bull;&nbsp;
         <a href="{{ '/privacy' | relative_url }}">Privacy & Care</a>
+        &nbsp;&bull;&nbsp;
+        <a href="{{ '/faq' | relative_url }}">FAQ</a>
         &nbsp;&bull;&nbsp;
         <a href="{{ '/contact' | relative_url }}">Contact</a>
       </p>
@@ -22,7 +24,7 @@
         {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      {{ site.time | date: '%Y' }}
+      2025
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
