@@ -4,6 +4,7 @@ title: Send a Message
 ---
 
 <form action="https://formspree.io/f/mgovgngk" method="POST" class="contact-form">
+  <input type="text" name="_gotcha" style="display:none">
   <div class="form-group">
     <label for="name">Name <span style="color: red;">*</span></label>
     <input type="text" name="name" id="name" class="form-control" required>

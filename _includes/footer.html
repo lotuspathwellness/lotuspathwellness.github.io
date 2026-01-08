@@ -10,6 +10,13 @@
           {% endfor %}
         </div>
       {% endif %}
+      <p class="footer-links text-muted" style="margin-bottom: 0.5rem;">
+        <a href="{{ '/terms' | relative_url }}">Terms</a>
+        &nbsp;&bull;&nbsp;
+        <a href="{{ '/privacy' | relative_url }}">Privacy & Care</a>
+        &nbsp;&bull;&nbsp;
+        <a href="{{ '/contact' | relative_url }}">Contact</a>
+      </p>
       <p class="copyright text-muted">
       {% if site.author %}
         {{ site.author }}
