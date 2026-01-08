@@ -167,3 +167,7 @@ body {
   background-color: #7B5BA6 !important;
   color: white !important;
 }
+
+.page-heading h1 {
+  font-size: 2rem;
+}
