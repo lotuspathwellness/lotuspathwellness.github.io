@@ -155,3 +155,15 @@ body {
   background-color: #9B7BC6 !important;
   border-color: #9B7BC6 !important;
 }
+
+.navbar-custom .nav-link.btn-outline-primary {
+  color: #7B5BA6 !important;
+  border-color: #7B5BA6 !important;
+  background-color: transparent !important;
+  margin-top: 10px;
+}
+
+.navbar-custom .nav-link.btn-outline-primary:hover {
+  background-color: #7B5BA6 !important;
+  color: white !important;
+}
