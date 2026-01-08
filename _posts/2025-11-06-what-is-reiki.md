@@ -34,7 +34,7 @@ Many people experience profound benefits from regular Reiki sessions:
 
 ## What to Expect in a Session
 
-A typical Reiki session lasts 60-90 minutes. You remain fully clothed and lie comfortably on a massage table. The practitioner gently places their hands in various positions, allowing healing energy to flow.
+A typical Reiki session lasts 45-60 minutes. You remain fully clothed and lie comfortably on a massage table. The practitioner gently places their hands in various positions, allowing healing energy to flow.
 
 Many clients report feeling warmth, tingling, or a sense of deep peace during the session. Some even fall asleep, which is perfectly normal and welcomed.
 

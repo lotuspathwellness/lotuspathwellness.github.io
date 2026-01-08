@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-subtitle: Your journey to wellness begins here
 ---
 
 ## Welcome to Lotus Path Wellness
