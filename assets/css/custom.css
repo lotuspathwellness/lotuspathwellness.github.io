@@ -145,7 +145,8 @@ body {
   .navbar-custom .navbar-nav .nav-link {
     text-align: right;
   }
-  .navbar-custom .nav-link.btn-primary {
+  .navbar-custom .nav-link.btn-primary,
+  .navbar-custom .nav-link.btn-outline-primary {
     margin-left: 15px;
     text-align: center;
   }
