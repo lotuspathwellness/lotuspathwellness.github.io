@@ -169,6 +169,7 @@ body {
   color: white !important;
 }
 
-.page-heading h1 {
-  font-size: 2rem;
+.intro-header .page-heading h1,
+.intro-header .post-heading h1 {
+  font-size: 1.6rem;
 }
