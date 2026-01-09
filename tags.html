@@ -1,0 +1,34 @@
+---
+layout: page
+title: Tags
+---
+
+{% assign tags = site.posts | map: 'tags' | uniq | compact | sort %}
+
+<div id="tags-list">
+{% for tag in site.tags %}
+  <div id="{{ tag[0] }}" class="tag-section" style="margin-bottom: 2rem;">
+    <h2 style="color: #7B5BA6; border-bottom: 2px solid #7B5BA6; padding-bottom: 0.5rem;">{{ tag[0] }}</h2>
+    <ul style="list-style: none; padding-left: 0;">
+    {% for post in tag[1] %}
+      <li style="margin-bottom: 0.75rem;">
+        <a href="{{ post.url | relative_url }}" style="font-weight: 600;">{{ post.title }}</a>
+        <span style="color: #888; font-size: 0.9rem;"> - {{ post.date | date: "%B %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var hash = window.location.hash;
+  if (hash) {
+    var element = document.querySelector(hash);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth' });
+    }
+  }
+});
+</script>
