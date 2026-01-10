@@ -42,7 +42,7 @@ document.getElementById('contact-form').addEventListener('submit', function(e) {
     }
   }).then(function(response) {
     if (response.ok) {
-      window.location.href = 'https://lotuspathwellness.github.io/?submitted=true';
+      window.location.href = 'https://lotuspathwellness.ca/?submitted=true';
     } else {
       alert('There was a problem submitting your form. Please try again.');
     }
