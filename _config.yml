@@ -103,6 +103,9 @@ url-pretty: "lotuspathwellness.ca"
 # Add the website title to the title of every page
 title-on-all-pages: true
 
+# Remove ads/attribution
+remove-ads: true
+
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 

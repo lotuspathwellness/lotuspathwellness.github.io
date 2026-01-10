@@ -29,6 +29,6 @@ New to Reiki? Let's connect! This short, gentle call is your chance to set inten
 
 ## Book a Session
 
-Step into a space of calm and healing. Book your Reiki session—either in-person with my massage chair at your home or remotely—and allow the energy to restore balance and harmony in your unique way.
+Step into a sacred space of calm and healing. Whether we connect in your home or through a remote session, this is an invitation to quiet the mind and nourish your spirit. Allow the universal life force to restore your soul's natural state of balance and harmony.
 
 <a href="https://calendly.com/lotuspathw/reiki-session" class="btn btn-primary" style="background-color: #7B5BA6; border-color: #7B5BA6; border-radius: 20px;"><i class="fa fa-calendar"></i> Book Session</a>

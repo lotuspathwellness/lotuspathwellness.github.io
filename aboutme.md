@@ -7,7 +7,7 @@ This is a space for gentle healing, intuitive connection, and soul-led transform
 
 ![Armita](/assets/img/armita.png){: .mx-auto.d-block style="max-width: 300px; border-radius: 50%; margin-bottom: 20px;" }
 
-My name is Armita, and I created Lotus Path Wellness from a deep love for energy healing and a belief that true wellness comes from nurturing the mind, body, and spirit together. My path into this work has been guided by curiosity, compassion, and a desire to support others in reconnecting with their inner balance.
+My name is Armita Khosravi, and I created Lotus Path Wellness from a deep love for energy healing and a belief that true wellness comes from nurturing the mind, body, and spirit together. My path into this work has been guided by curiosity, compassion, and a desire to support others in reconnecting with their inner balance.
 
 Currently, I offer Reiki energy healing, providing calm, grounding support tailored to your unique energy and intention. This space will continue to grow as I deepen my learning and expand my offerings.
 

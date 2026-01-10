@@ -23,7 +23,7 @@ title: Contact Me
     <textarea name="message" id="message" class="form-control" rows="5" placeholder="Message"></textarea>
   </div>
   
-  <div class="g-recaptcha" data-sitekey="6LdNcEQsAAAAAMs7D9vcMFfTuu2HpydBvRrgbXQa" style="margin-bottom: 1rem;"></div>
+  <div class="g-recaptcha" data-sitekey="6LdqaUgsAAAAANb-u4760oSgSA1Ox_D6mU7szzYT" style="margin-bottom: 1rem;"></div>
   
   <button type="submit" class="btn" style="background-color: #7B5BA6; border-color: #7B5BA6; color: white; border-radius: 20px; padding: 10px 30px;">Send Message</button>
 </form>
