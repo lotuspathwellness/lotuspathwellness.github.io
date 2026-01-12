@@ -12,6 +12,9 @@
 # Name of website
 title: Lotus Path Wellness
 
+# Site description for SEO
+description: "Lotus Path Wellness offers Reiki energy healing sessions in Metro Vancouver and distance sessions worldwide. Restore balance, reduce stress, and reconnect with your inner calm."
+
 # Your name to show in the footer
 author: Lotus Path Wellness
 
@@ -22,6 +25,7 @@ author: Lotus Path Wellness
 navbar-links:
   About: "aboutme"
   Services: "services"
+  FAQ: "faq"
   Contact: "contact"
 
 ################
@@ -170,7 +174,7 @@ site-css:
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-9NC5W4QXQ9"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
@@ -259,7 +263,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

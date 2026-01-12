@@ -3,36 +3,46 @@ layout: page
 title: Privacy & Care
 ---
 
-At Lotus Path Wellness, your privacy and well-being are important to us. When you visit our website or book a Reiki session, we honor the trust you place in us by keeping your information safe and private.
+At Lotus Path Wellness, your privacy and well-being are my highest priority. Whether you are visiting this website or receiving a Reiki session, I honor the trust you place in me by keeping your information safe, secure, and sacred.
 
-## What We Collect
+## Commitment to Confidentiality
 
-We may collect your name, email, phone number, or any details you share when booking sessions or reaching out. We may also collect general information about how you use our website, like pages visited, to help us improve your experience.
+I am committed to protecting your personal information in accordance with the Personal Information Protection and Electronic Documents Act (PIPEDA). All personal, health, and session-related information shared verbally or in writing is collected, used, and stored solely for the purpose of providing Reiki services and supporting your wellness journey.
 
-## How We Use Your Information
+Your information is kept strictly confidential and will never be disclosed to third parties without your written consent, except where required or permitted by law.
 
-The information you share helps us:
+## Information Collection & Use
 
-- Respond personally to your inquiries and schedule sessions
-- Send updates about our services or events, only if you choose to receive them
-- Make our website and offerings more helpful and supportive for you
+To provide a personalized and professional experience, I may collect the following:
 
-## Keeping Your Information Safe
+**Contact Details:** Your full name, email address, phone number, and address provided during booking or inquiries.   
 
-We respect your privacy and never sell or share your personal information. Your details are only used to support your experience with Lotus Path Wellness.
+**Wellness and Safety Information:** Information shared in your intake form, including your date of birth, emergency contact details, primary care physician contact details, and any health-related details you choose to disclose to support a safe, respectful, and supportive Reiki session. 
 
-## Cookies & Website Experience
+**Website Experience:** General information about how you interact with this site (such as pages visited) to help me improve my offerings.
 
-Our site may use cookies to enhance your visit and improve functionality. You can manage your cookie settings through your browser if you prefer.
+## Security & Safeguards
 
-## Your Rights
+Client records and session notes are stored securely and are accessible only to the practitioner. I employ reasonable physical and digital safeguards to protect your personal information against loss, theft, unauthorized access, or modification. I respect your privacy and never sell or share your personal data with outside marketers.
 
-You can request deletion of your personal information at any time.
+## Cookies & Digital Experience
+
+This website may use cookies to enhance your visit and improve functionality. You can manage your cookie settings through your browser at any time if you prefer.
+
+## Your Rights & Choices
+
+You have the right to:
+
+- Request access to the personal information I hold about you.
+- Ask for corrections or the complete deletion of your data.
+- Withdraw your consent for information use at any time.
 
 ## Children's Privacy
 
-Our services are for adults, and we do not knowingly collect information from children under 13.
+Our services are designed for adults. Lotus Path Wellness does not knowingly collect information from children under the age of 13.
 
 ## Questions or Concerns
 
-If you have any questions about your privacy, please [contact me](/email).
+If you have any questions regarding your privacy or how your information is handled, please feel free to [contact me](/email).
+
+Lotus Path Wellness is committed to maintaining a safe, respectful, and confidential healing environment.
