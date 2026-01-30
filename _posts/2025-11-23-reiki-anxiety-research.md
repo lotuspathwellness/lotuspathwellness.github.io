@@ -63,4 +63,4 @@ If you're curious about how Reiki might help with your own anxiety or stress, re
 **Reference:**  
 Guo, X., Long, Y., Qin, Z., & Fan, Y. (2024). Therapeutic effects of Reiki on interventions for anxiety: a meta-analysis. *BMC Palliative Care*, 23, 149. [https://pmc.ncbi.nlm.nih.gov/articles/PMC11170819/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11170819/)
 
-*Ready to explore Reiki for yourself? [Contact us](/email) to ask questions or [book a free call](https://calendly.com/lotuspathw/introductory-call-first-time-clients) to learn more.*
+*Ready to explore Reiki for yourself? [Contact us](/email) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to learn more.*

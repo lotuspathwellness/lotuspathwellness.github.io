@@ -70,4 +70,4 @@ If you're interested in experiencing how Reiki might enhance your well-being, th
 **Reference:**  
 Liu, K., Qin, Z., Qin, Y., et al. (2025). Effects of Reiki therapy on quality of life: a meta-analysis of randomized controlled trials. *Systematic Reviews*, 14, 85. [https://pmc.ncbi.nlm.nih.gov/articles/PMC11951753/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11951753/)
 
-*Ready to explore Reiki for yourself? [Contact us](/email) to ask questions or [book a free call](https://calendly.com/lotuspathw/introductory-call-first-time-clients) to learn more.*
+*Ready to explore Reiki for yourself? [Contact us](/email) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to learn more.*

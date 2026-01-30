@@ -90,4 +90,4 @@ As research continues, we're likely to develop an even richer understanding of h
 - [Anatomical Evidence of Acupuncture Meridians in the Human Extracellular Matrix](https://pmc.ncbi.nlm.nih.gov/articles/PMC6448339/)
 - [Science Measures the Human Energy Field](https://www.reiki.org/articles/science-measures-human-energy-field)
 
-*Curious to experience energy healing for yourself? [Contact me](/email) to ask questions or [book a free call](https://calendly.com/lotuspathw/introductory-call-first-time-clients) to learn more.*
+*Curious to experience energy healing for yourself? [Contact me](/email) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to learn more.*
