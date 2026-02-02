@@ -5,11 +5,21 @@ title: Services
 
 ## In-Person Reiki Session
 
-Receive Reiki in the comfort of your own space, using a massage chair I bring to you. Each session is guided with intention, supporting your unique needs and intentions. You may feel warmth, peace, or deep relaxation as the healing energy helps restore balance to your mind, body, and spirit. All that's needed is your openness to receive and allow the energy to support your well-being.
+**Healing, delivered to your sanctuary.**
+
+Receive a private Reiki session in the comfort of your own home. Using a portable massage chair that I provide, I bring the healing space to you. Each session is guided by your unique needs, creating a container for warmth, peace, and deep relaxation as we restore balance to your mind, body, and spirit.
+
+All that is required is your openness to receive and allow the energy to support your well-being.
+
+I will arrive approximately 10 minutes early to set up and connect; the healing session is a full 45 minutes, so please plan for me to be in your space for about an hour total.
 
 ## Distance Reiki Session
 
-Receive Reiki wherever you are, in the comfort of your own space. Each session is intuitively scheduled with intention, and we'll connect beforehand to set your personal intentions. As the healing energy flows, you may feel deep peace, warmth, or calm—each experience unfolding uniquely for you. All that's needed is your openness to receive and allow the energy to support your balance and well-being.
+**Your sanctuary, your healing—anywhere you are.**
+
+Receive Reiki in the comfort of your own space, no matter the distance. Each session is intuitively scheduled with intention, and we'll connect beforehand to set your personal focus. As the healing energy flows, you may feel deep peace, warmth, or calm—each experience unfolding uniquely for you.
+
+All that's needed is your openness to receive and allow the energy to support your balance and well-being.
 
 ---
 
