@@ -2,15 +2,15 @@
 layout: post
 title: Scientific Evidence for Reiki's Impact on Anxiety
 subtitle: A 2024 meta-analysis reveals significant anxiety reduction across 824 participants
-thumbnail-img: /assets/img/reiki-research.png
-cover-img: /assets/img/reiki-research-cover.png
+thumbnail-img: /assets/img/reiki-research.jpg
+cover-img: /assets/img/reiki-research-cover.jpg
 tags: [reiki, research, anxiety, science, evidence-based]
 author: Lotus Path Wellness
 ---
 
 For those who wonder whether Reiki has scientific backing, a comprehensive 2024 meta-analysis published in *BMC Palliative Care* offers compelling evidence. This rigorous study examined 13 randomized controlled trials involving 824 adult participants, revealing that Reiki therapy significantly reduces anxiety.
 
-![Reiki research overview](/assets/img/reiki-research.png){: .mx-auto.d-block :}
+![Reiki research overview](/assets/img/reiki-research.jpg){: .mx-auto.d-block :}
 
 ## The Study at a Glance
 
@@ -46,7 +46,7 @@ The study found Reiki especially helpful for individuals experiencing:
 
 This meta-analysis is significant because it combines data from multiple independent studies, providing a more robust and reliable conclusion than any single trial could offer. With 824 total participants and rigorous statistical analysis, the evidence strongly supports Reiki as an effective complementary therapy for anxiety reduction.
 
-![Meta-analysis concept](/assets/img/meta-analysis-diagram.png){: .mx-auto.d-block :}
+![Meta-analysis concept](/assets/img/meta-analysis-diagram.jpg){: .mx-auto.d-block :}
 
 ## The Bottom Line
 

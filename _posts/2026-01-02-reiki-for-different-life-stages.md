@@ -2,15 +2,15 @@
 layout: post
 title: Reiki for Every Stage of Life
 subtitle: Research-backed support for pregnancy, postpartum, menopause, and aging
-thumbnail-img: /assets/img/reiki-life-stages.png
-cover-img: /assets/img/reiki-life-stages-cover.png
+thumbnail-img: /assets/img/reiki-life-stages.jpg
+cover-img: /assets/img/reiki-life-stages-cover.jpg
 tags: [reiki, pregnancy, postpartum, menopause, aging, research, women's health]
 author: Lotus Path Wellness
 ---
 
 Life is a journey through distinct seasons, each with its own joys and challenges. From the anticipation of pregnancy to the wisdom of our later years, our bodies and minds undergo profound transformations. What if there were a gentle, non-invasive practice that could support you through each of these transitions? Research increasingly suggests that Reiki can do exactly that.
 
-![Reiki supporting life stages](/assets/img/reiki-life-stages.png){: .mx-auto.d-block :}
+![Reiki supporting life stages](/assets/img/reiki-life-stages.jpg){: .mx-auto.d-block :}
 
 ## Pregnancy: Nurturing Two Lives at Once
 
@@ -31,7 +31,7 @@ An earlier study of 203 women hospitalized for obstetrical conditions found that
 
 Pregnancy naturally increases stress hormones while your body works overtime to support new life. Reiki's gentle approach activates the parasympathetic nervous system—your body's "rest and digest" mode—without any physical manipulation or medication. This makes it an ideal complement to prenatal care.
 
-![Pregnancy and postpartum support](/assets/img/pregnancy-reiki.png){: .mx-auto.d-block :}
+![Pregnancy and postpartum support](/assets/img/pregnancy-reiki.jpg){: .mx-auto.d-block :}
 
 ## Postpartum: Healing While Caring for New Life
 
@@ -75,7 +75,7 @@ Two recent randomized controlled trials offer encouraging results:
 
 Menopause isn't just physical—it's a profound life transition that often coincides with other major changes: children leaving home, career shifts, caring for aging parents. Reiki addresses the whole person, supporting not just the hot flashes but the emotional and spiritual dimensions of this transformation.
 
-![Menopause and aging support](/assets/img/menopause-aging-reiki.png){: .mx-auto.d-block :}
+![Menopause and aging support](/assets/img/menopause-aging-reiki.jpg){: .mx-auto.d-block :}
 
 ## Aging: Vitality and Comfort in Later Years
 

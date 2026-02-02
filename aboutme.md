@@ -5,7 +5,7 @@ title: Welcome to Lotus Path Wellness
 
 This is a space for gentle healing, intuitive connection, and soul-led transformation.
 
-![Armita](/assets/img/armita.png){: .mx-auto.d-block style="max-width: 300px; border-radius: 50%; margin-bottom: 20px;" }
+![Armita](/assets/img/armita.jpg){: .mx-auto.d-block style="max-width: 300px; border-radius: 50%; margin-bottom: 20px;" }
 
 My name is Armita Khosravi, and I created Lotus Path Wellness from a deep love for energy healing and a belief that true wellness comes from nurturing the mind, body, and spirit together. My path into this work has been guided by curiosity, compassion, and a desire to support others in reconnecting with their inner balance.
 

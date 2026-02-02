@@ -2,15 +2,15 @@
 layout: post
 title: The Science Behind Energy Healing
 subtitle: Understanding biofield, meridians, and the human energy system
-thumbnail-img: /assets/img/biofield-science.png
-cover-img: /assets/img/biofield-cover.png
+thumbnail-img: /assets/img/biofield-science.jpg
+cover-img: /assets/img/biofield-cover.jpg
 tags: [reiki, science, biofield, energy, research]
 author: Lotus Path Wellness
 ---
 
 When people first encounter energy healing practices like Reiki, a common question arises: "Is there any science behind this?" It's a fair question. While ancient healing traditions have understood energy flow for thousands of years, modern science is now beginning to explore and measure these phenomena in fascinating ways.
 
-![Human biofield visualization](/assets/img/biofield-science.png){: .mx-auto.d-block :}
+![Human biofield visualization](/assets/img/biofield-science.jpg){: .mx-auto.d-block :}
 
 ## What is the Biofield?
 
@@ -28,7 +28,7 @@ Recent comprehensive reviews reveal just how much scientific attention biofield 
 - The review covered Reiki (88 studies), Therapeutic Touch (71 studies), Healing Touch (31 studies), and other modalities
 - A December 2024 narrative review concluded that biofield energy therapy was effective in treating different disease symptoms in both preclinical and clinical studies
 
-![Biofield research timeline](/assets/img/research-timeline.png){: .mx-auto.d-block :}
+![Biofield research timeline](/assets/img/research-timeline.jpg){: .mx-auto.d-block :}
 
 ## Understanding Meridians
 
@@ -56,7 +56,7 @@ A November 2024 study in *Scientific Reports* examined biofield therapy under do
 ### Nervous System Regulation
 Energy healing may work by activating the parasympathetic nervous system, promoting the body's natural relaxation response and healing mechanisms.
 
-![Energy healing mechanisms](/assets/img/healing-mechanisms.png){: .mx-auto.d-block :}
+![Energy healing mechanisms](/assets/img/healing-mechanisms.jpg){: .mx-auto.d-block :}
 
 ## The Bridge Between Ancient Wisdom and Modern Science
 

@@ -2,21 +2,21 @@
 layout: post
 title: What is Reiki?
 subtitle: An ancient healing practice for modern wellness
-thumbnail-img: /assets/img/reiki-hands.png
-cover-img: /assets/img/reiki-cover.png
+thumbnail-img: /assets/img/reiki-hands.jpg
+cover-img: /assets/img/reiki-cover.jpg
 tags: [reiki, healing, wellness, energy]
 author: Lotus Path Wellness
 ---
 
 Reiki is a Japanese energy healing technique that promotes relaxation, reduces stress, and supports the body's natural ability to heal. The word "Reiki" comes from two Japanese words: *Rei* (universal) and *Ki* (life energy).
 
-![Reiki healing session](/assets/img/reiki-hands.png){: .mx-auto.d-block :}
+![Reiki healing session](/assets/img/reiki-hands.jpg){: .mx-auto.d-block :}
 
 ## How Does Reiki Work?
 
 During a Reiki session, the practitioner places their hands lightly on or just above the client's body. Energy flows through the practitioner's hands to the recipient, helping to balance the body's energy centers, known as chakras.
 
-![The seven chakras](/assets/img/chakras.png){: .mx-auto.d-block :}
+![The seven chakras](/assets/img/chakras.jpg){: .mx-auto.d-block :}
 
 Reiki is based on the principle that when our life force energy is low or blocked, we are more likely to feel stressed or unwell. When it flows freely, we experience greater health and happiness.
 

@@ -2,15 +2,15 @@
 layout: post
 title: New Research Shows Reiki Improves Quality of Life
 subtitle: A 2025 meta-analysis of 661 participants demonstrates significant benefits
-thumbnail-img: /assets/img/reiki-qol-research.png
-cover-img: /assets/img/reiki-qol-cover.png
+thumbnail-img: /assets/img/reiki-qol-research.jpg
+cover-img: /assets/img/reiki-qol-cover.jpg
 tags: [reiki, research, quality of life, science, evidence-based]
 author: Lotus Path Wellness
 ---
 
 A brand new 2025 meta-analysis published in *Systematic Reviews* provides fresh scientific evidence that Reiki therapy significantly improves quality of life. This comprehensive study analyzed 11 randomized controlled trials involving 661 participants, offering robust support for Reiki as a complementary wellness practice.
 
-![Reiki quality of life research](/assets/img/reiki-qol-research.png){: .mx-auto.d-block :}
+![Reiki quality of life research](/assets/img/reiki-qol-research.jpg){: .mx-auto.d-block :}
 
 ## The Study at a Glance
 
@@ -42,7 +42,7 @@ The study found Reiki particularly helpful for:
 - **Chronic illness patients** managing ongoing conditions
 - **General population** seeking enhanced well-being
 
-![Quality of life benefits](/assets/img/qol-benefits-diagram.png){: .mx-auto.d-block :}
+![Quality of life benefits](/assets/img/qol-benefits-diagram.jpg){: .mx-auto.d-block :}
 
 ## What is "Quality of Life"?
 

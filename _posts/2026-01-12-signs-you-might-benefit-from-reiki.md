@@ -2,8 +2,8 @@
 layout: post
 title: Signs You Might Benefit from Reiki
 subtitle: When to consider trying this gentle healing practice
-thumbnail-img: /assets/img/reiki-signs.png
-cover-img: /assets/img/reiki-signs-cover.png
+thumbnail-img: /assets/img/reiki-signs.jpg
+cover-img: /assets/img/reiki-signs-cover.jpg
 tags: [reiki, wellness, stress, anxiety, self-care, healing]
 author: Lotus Path Wellness
 ---
@@ -12,7 +12,7 @@ Sometimes our bodies and minds send us signals that something is out of balance.
 
 Reiki is a non-invasive energy healing practice that supports the body's natural ability to heal and rebalance. But how do you know if it might be right for you? Here are some signs that Reiki could offer the support you're seeking.
 
-![Signs you might benefit from Reiki](/assets/img/reiki-signs.png){: .mx-auto.d-block :}
+![Signs you might benefit from Reiki](/assets/img/reiki-signs.jpg){: .mx-auto.d-block :}
 
 ## 1. You're Experiencing Chronic Stress or Burnout
 
@@ -32,7 +32,7 @@ A 2024 meta-analysis of 824 participants found that Reiki therapy had a signific
 
 **You might recognize this as:** Racing thoughts, difficulty relaxing, trouble sleeping due to worry, physical tension, or a constant sense of unease.
 
-![Stress and anxiety relief](/assets/img/stress-relief-reiki.png){: .mx-auto.d-block :}
+![Stress and anxiety relief](/assets/img/stress-relief-reiki.jpg){: .mx-auto.d-block :}
 
 ## 3. You're Struggling with Depression or Low Mood
 
@@ -58,7 +58,7 @@ Research on cancer patients and those with chronic diseases found that Reiki ses
 
 **You might recognize this as:** Pain that doesn't respond fully to conventional treatment, fatigue that persists despite adequate sleep, or physical symptoms that seem connected to stress.
 
-![Physical healing support](/assets/img/physical-healing-reiki.png){: .mx-auto.d-block :}
+![Physical healing support](/assets/img/physical-healing-reiki.jpg){: .mx-auto.d-block :}
 
 ## 6. Your Sleep Has Been Disrupted
 
@@ -84,7 +84,7 @@ Perhaps you've tried various wellness practices and are curious about something 
 
 **You might recognize this as:** A pull toward holistic or complementary practices, desire for deeper relaxation than you can achieve alone, or simply curiosity about energy healing.
 
-![Self-care and wellness](/assets/img/self-care-reiki.png){: .mx-auto.d-block :}
+![Self-care and wellness](/assets/img/self-care-reiki.jpg){: .mx-auto.d-block :}
 
 ## What the Research Says
 
