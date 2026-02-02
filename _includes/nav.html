@@ -34,6 +34,11 @@
           </li>
         {%- endif -%}
       {%- endfor -%}
+      <li class="nav-item">
+          <a class="nav-link" href="{{ '/' | absolute_url }}" title="Blog">
+            <span class="fa fa-home"></span>
+          </a>
+        </li>
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
