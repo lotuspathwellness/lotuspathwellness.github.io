@@ -3,15 +3,23 @@ layout: page
 title: Services
 ---
 
-## In-Person Reiki Session
+## In-Person Reiki Sessions
 
-**Healing, delivered to your sanctuary.**
+**Healing, delivered to your sanctuary or received in mine.**
 
-Receive a private Reiki session in the comfort of your own home. Using a portable massage chair that I provide, I bring the healing space to you. Each session is guided by your unique needs, creating a container for warmth, peace, and deep relaxation as we restore balance to your mind, body, and spirit.
+You have the choice of two ways to experience in-person Reiki:
 
-All that is required is your openness to receive and allow the energy to support your well-being.
+### Mobile Reiki — The Sanctuary Comes to You
 
-I will arrive approximately 10 minutes early to set up and connect; the healing session is a full 45 minutes, so please plan for me to be in your space for about an hour total.
+Receive a private Reiki session in the comfort of your own home. I provide a portable massage chair and arrive approximately 10 minutes early to set up and connect. The healing session lasts 45 minutes, so please plan for about an hour total.
+
+### In-Home Reiki — A Sacred Space to Receive
+
+Step away from daily life and receive your session in my home in Coquitlam, sitting comfortably in a massage chair within a space energetically prepared for deep rest, uninterrupted stillness, and alignment.
+
+Each session is intuitively guided by your unique needs, offering warmth, peace, and deep relaxation as we restore balance to your mind, body, and spirit.
+
+All that's required is your openness to receive, allowing the energy to support your well-being.
 
 ## Distance Reiki Session
 
