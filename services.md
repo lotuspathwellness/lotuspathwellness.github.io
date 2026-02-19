@@ -31,9 +31,29 @@ All that's needed is your openness to receive and allow the energy to support yo
 
 ---
 
-## Pricing
+## Investment
 
-I offer Reiki sessions for $77 per 45 minutes, creating a space for relaxation, balance, and well-being.
+### Single Reiki Session
+
+**45 minutes — $77**
+
+A dedicated space for deep relaxation, energetic balance, and immediate restoration.
+
+### Three-Session Healing Journey
+
+**Three 45-minute sessions — $210** ($70 per session)
+
+Designed for those ready to experience meaningful shifts, this journey allows your nervous system and energy field the consistency needed for deeper integration and lasting alignment.
+
+### Begin Your Journey
+
+Most clients choose the three-session journey for the depth and continuity it provides.
+
+To reserve your journey, you may begin at the preferred rate of $70 per session starting with your first booking, or complete the full $210 investment at your initial session.
+
+Your first appointment will be reserved now, and we will thoughtfully schedule the remaining two sessions in alignment with your healing rhythm as intuitively guided.
+
+Whichever path you choose, you will receive the same devoted presence, intention, and care.
 
 ---
 
