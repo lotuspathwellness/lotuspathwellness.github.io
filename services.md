@@ -5,39 +5,33 @@ title: Services
 
 ## In-Person Reiki Sessions
 
-**Healing, offered in your sanctuary or received in mine.**
+**Healing, offered in your space or received in mine.**
 
 You have two ways to experience in-person Reiki:
 
 ### Mobile Reiki — The Sanctuary Comes to You
 
-Experience a Reiki session in the comfort of your own home. I bring a professional portable massage chair and arrive at our scheduled time to begin with a short check-in, allowing us to connect and set your intention for the session.
+**$90 — 60 minutes**
 
-The Reiki healing lasts 45 minutes, followed by a gentle moment to share any insights and help you ground before we finish.
+Experience a Reiki session in the comfort of your own home. I bring a professional portable massage chair and arrive at our scheduled time.
+
+We begin with a short check-in to connect and set your intention. The session includes Reiki healing followed by a gentle moment to share any insights and help you feel grounded before we finish.
 
 ### In-Home Reiki — A Sacred Space to Receive
 
-Step away from daily life and receive your session in my home in Coquitlam, sitting comfortably in a massage chair within a space intentionally prepared for deep rest, stillness, and energetic alignment.
+**$80 — 60 minutes**
 
-Each session is intuitively guided by your unique needs, offering warmth, peace, and deep relaxation as balance is restored to your mind, body, and spirit.
+Step away from daily life and receive your session in my home in Coquitlam. You'll be seated comfortably in a massage chair within a calm, welcoming space prepared for deep rest and relaxation.
 
-All that's required is your openness to receive and allow the energy to support your well-being.
+Each session is intuitively guided based on your needs, supporting emotional release, balance, and a sense of calm and clarity.
 
 ## Distance Reiki Session
 
-**Your sanctuary, your healing—wherever you are.**
+**$70 — 60 minutes**
 
-Receive Reiki in the comfort of your own space, no matter the distance. Before the session, we'll connect briefly to set your intention and focus. As the healing energy flows, you may feel warmth, calm, or deep relaxation—each experience unfolding uniquely for you.
+Receive Reiki from the comfort of your own space, wherever you are.
 
-All that's needed is your openness to receive and allow the energy to support your balance and well-being.
-
----
-
-## Investment
-
-### 45-Minute Reiki Session | $77
-
-A dedicated space for deep relaxation, energetic balance, and renewal. Each session supports your nervous system in slowing down, allowing your body and energy to gently reset and create space for clarity, calm, and natural healing.
+We begin with a short check-in to set your intention. During the session, you may feel calm, warmth, or deep relaxation as the energy flows—each experience is unique.
 
 ---
 
