@@ -166,6 +166,97 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/Logo.png' | relative_url }}" />
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/Logo.png' | relative_url }}" />
 
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Lotus Path Wellness",
+    "description": "{{ site.description | strip_html | xml_escape }}",
+    "url": "https://lotuspathwellness.ca",
+    "image": "{{ '/assets/img/Logo.png' | absolute_url }}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Coquitlam",
+      "addressRegion": "BC",
+      "addressCountry": "CA"
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Coquitlam"
+      },
+      {
+        "@type": "Place",
+        "name": "Metro Vancouver"
+      }
+    ],
+    "serviceType": ["Reiki", "Energy Healing", "Distance Reiki"],
+    "sameAs": [
+      "https://www.instagram.com/lotuspath.wellness/"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Lotus Path Wellness",
+    "url": "https://lotuspathwellness.ca"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "SiteNavigationElement",
+        "name": "About",
+        "url": "https://lotuspathwellness.ca/aboutme"
+      },
+      {
+        "@type": "SiteNavigationElement",
+        "name": "Services",
+        "url": "https://lotuspathwellness.ca/services"
+      },
+      {
+        "@type": "SiteNavigationElement",
+        "name": "FAQ",
+        "url": "https://lotuspathwellness.ca/faq"
+      },
+      {
+        "@type": "SiteNavigationElement",
+        "name": "Contact",
+        "url": "https://lotuspathwellness.ca/contact"
+      }
+    ]
+  }
+  </script>
+  {% if page.id %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ page.title | strip_html | xml_escape }}",
+    "description": "{{ description }}",
+    "author": {
+      "@type": "Organization",
+      "name": "Lotus Path Wellness"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Lotus Path Wellness",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ '/assets/img/Logo.png' | absolute_url }}"
+      }
+    },
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "url": "{{ page.url | absolute_url }}"
+  }
+  </script>
+  {% endif %}
+
   {% if page.head-extra %}
     {% for file in page.head-extra %}
       {% include {{ file }} %}
