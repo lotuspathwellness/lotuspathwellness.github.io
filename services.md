@@ -3,49 +3,56 @@ layout: page
 title: Services
 ---
 
-## In-Person Reiki Sessions
+## 🚗 Mobile Reiki — In Your Home
 
-**Healing, offered in your space or received in mine.**
+**$95 — 60 minutes**
 
-You have two ways to experience in-person Reiki:
+Enjoy a Reiki session in the comfort of your own home, without the need to travel.
 
-### Mobile Reiki — The Sanctuary Comes to You
+I bring a professional portable massage chair and help you settle into a calm, comfortable space so you can relax during your session.
 
-**$90 — 60 minutes**
-
-Experience a Reiki session in the comfort of your own home. I bring a professional portable massage chair and arrive at our scheduled time.
-
-We begin with a short check-in to connect and set your intention. The session includes Reiki healing followed by a gentle moment to share any insights and help you feel grounded before we finish.
-
-### In-Home Reiki — A Sacred Space to Receive
-
-**$80 — 60 minutes**
-
-Step away from daily life and receive your session in my home in Coquitlam. You'll be seated comfortably in a massage chair within a calm, welcoming space prepared for deep rest and relaxation.
-
-Each session is intuitively guided based on your needs, supporting emotional release, balance, and a sense of calm and clarity.
-
-## Distance Reiki Session
-
-**$70 — 60 minutes**
-
-Receive Reiki from the comfort of your own space, wherever you are.
-
-We begin with a short check-in to set your intention. During the session, you may feel calm, warmth, or deep relaxation as the energy flows—each experience is unique.
+Each session begins with a short check-in to understand your needs. The Reiki session is gentle and focused on helping you release tension, feel more settled in your body, and restore balance—all within the familiarity of your own space.
 
 ---
 
-## Book a Free Introductory Call
+## ✨ Distance Reiki Session
 
-New to Reiki? Let's connect.
-This short, gentle call is a space to ask questions, set intentions, and explore how Reiki may support your mind, body, and spirit.
+**$70 — 60 minutes**
 
-<a href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" class="btn" style="border: 2px solid #7B5BA6; color: #7B5BA6; border-radius: 20px;"><i class="fa fa-phone"></i> Free Call</a>
+Receive a Reiki session from wherever you are, in the comfort of your own space.
+
+We begin with a short check-in to understand what you'd like support with and to set a simple intention for the session. You can then relax in a quiet, comfortable place while the session takes place.
+
+Distance Reiki offers the same calming and supportive experience, helping your body settle, your mind soften, and your energy return to balance—without needing to be physically present.
+
+---
+
+## 🏠 In-Person Reiki Session (Coquitlam Location)
+
+**$80 — 60 minutes**
+
+Step away from your daily routine and receive a Reiki session in a calm, quiet space in Coquitlam.
+
+You'll be seated comfortably in a massage chair in a simple, welcoming environment designed to help you relax and unwind.
+
+Each session begins with a short check-in to understand your needs. The session is gentle and focused on helping you release tension, feel more settled in your body, and restore a sense of balance—offering you a dedicated space to slow down and focus on yourself.
 
 ---
 
 ## Book a Session
 
-Step into a sacred space of calm and healing. Whether we connect in your home, in my home, or through a remote session, this is an invitation to quiet your mind and nourish your spirit. Allow the universal life force energy to restore your soul's natural balance and harmony.
+Choose the session that feels right for you.
 
-<a href="https://calendly.com/lotuspathw/reiki-session" class="btn btn-primary" style="background-color: #7B5BA6; border-color: #7B5BA6; border-radius: 20px;"><i class="fa fa-calendar"></i> Book Session</a>
+You can book directly using the link below. If you have any questions, please book the free introductory call before scheduling your session.
+
+<a href="https://calendly.com/lotuspathw/reiki-session" class="btn btn-primary" style="background-color: #7B5BA6; border-color: #7B5BA6; border-radius: 20px;"><i class="fa fa-calendar"></i> Book Your Session</a>
+
+*You don't need to have anything figured out before your session—just come as you are.*
+
+---
+
+## New to Reiki?
+
+If you'd like to connect first, you're welcome to book a short introductory call. This is a gentle space to ask questions and understand how Reiki may support you.
+
+<a href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" class="btn" style="border: 2px solid #7B5BA6; color: #7B5BA6; border-radius: 20px;"><i class="fa fa-phone"></i> Book a Free Call</a>

@@ -3,59 +3,59 @@ layout: page
 title: FAQ
 ---
 
-## The Basics: Understanding Reiki
+## The Basics
 
-**What is Reiki, really?**  
-Think of it as a gentle tune-up for your body's internal battery. Scientifically, it interacts with your biofield to move your nervous system from "fight or flight" into "rest and digest," clearing mental fog and lowering stress.
+**What is Reiki?**
+Reiki is a gentle energy healing practice that supports relaxation, stress release, and balance. Think of it as a soft reset for your system, helping it shift out of stress into a more grounded state.
 
-**Do I need to believe in it for it to work?**  
-Not at all! Reiki functions like a "reset button" for your nervous system. Much like a nap refreshes you whether you "believe" in sleep or not, Reiki works by giving your body the quiet space it needs to recover.
+**Do I need to believe in Reiki for it to work?**
+No. Reiki is a spiritual, not religious, practice and is open to everyone. It supports the body's natural ability to relax and restore itself, whether you believe in it or not.
 
-**Is it the practitioner's personal energy?**  
-No. I act as a "conduit" or a lamp cord—I am not the electricity; I simply allow the universal energy to reach the bulb. You receive a clean recharge from the source, not my personal energy.
+**Is it the practitioner's personal energy?**
+No. Reiki practitioners act as a channel rather than the source—you receive universal energy, not personal energy.
 
-**In-person or distance?**  
-Both! I offer in-person sessions in a comfy massage chair at your home, or distance sessions globally. Much like Wi-Fi carries a signal without wires, Reiki can be shared anywhere to help you feel centered.
-
----
-
-## Safety & Peace of Mind
-
-**Is Reiki safe?**  
-Absolutely. It is non-invasive, gentle, and involves no chemicals or physical manipulation. It is safe for all ages and works in harmony with any traditional medical treatments.
-
-**Can emotions or "bad vibes" transfer to me?**  
-No. Reiki is "smart" energy. I act as a neutral bridge, so my personal thoughts or moods stay with me. You are in a safe, protected bubble where only the restorative energy you need can enter.
-
-**What should I wear?**  
-Comfort is key! You remain fully clothed. Wear whatever makes you feel at ease—like cozy socks, yoga pants, or your favourite t-shirt.
+**Do you offer in-person or distance sessions?**
+Both. I offer in-home and distance Reiki sessions. Distance Reiki can be received from anywhere and offers the same intention of helping you feel more centred and at ease.
 
 ---
 
-## The Experience & Results
+## Safety & Comfort
 
-**What will I feel?**  
-Every nervous system is different. You might feel warmth, tingling, a cool breeze, or an emotional release. Many people drift into a deep, restorative sleep. Subtle or vivid—it's all working!
+**Is Reiki safe?**
+Yes. Reiki is gentle, non-invasive, and safe for all ages. It works alongside other forms of care and support.
 
-**What if I don't feel anything?**  
-Don't worry, the "recharge" is still happening. Just like a phone on a wireless charging pad, the battery fills up even if you don't feel the electricity moving.
+**Can anything negative transfer to me?**
+No. Reiki is a supportive practice that helps you feel more grounded and at ease. It does not involve transferring anything negative.
 
-**How should I feel afterward?**  
-Most people feel "lighter," grounded, and mentally clear. Think of it as that peaceful "after-yoga" glow.
-
-**How many sessions do I need?**  
-There is no one-size-fits-all. A single session is a great "reset," while regular visits help maintain a baseline of peace. Trust your body to tell you when you need a boost.
+**What should I wear?**
+Wear whatever feels comfortable. You remain fully clothed during the session.
 
 ---
 
-## Supporting Your Glow: Post-Session Care
+## The Experience
 
-To get the most out of your "integration period," follow these simple steps:
+**What will I feel during a session?**
+Everyone's experience is different. You may feel warmth, tingling, deep relaxation, emotional release, or simply a sense of calm.
 
-💧 **Hydrate:** Water helps flush your system and grounds your energy. Drink an extra glass or two!
+**What if I don't feel anything?**
+That's completely okay. Reiki is still working to support your system even if sensations are subtle.
 
-🍃 **Honor Your Pace:** You may feel "zen" or sleepy. Avoid high-stress tasks and give yourself permission to move a little slower today.
+**How will I feel after a session?**
+Most people feel more relaxed, grounded, and mentally clearer. Some notice a sense of lightness or emotional ease.
 
-🍎 **Eat Something Grounding:** If you feel "floaty," a small snack (like nuts or warm tea) will help bring you back down to earth.
+**How many sessions do I need?**
+It depends on your needs. Some people come for one session, others prefer ongoing support. Your body will guide you on what it needs.
 
-📝 **Notice the Shifts:** Over the next 48 hours, look for subtle changes like better sleep or a quieter mind.
+---
+
+## After Your Session
+
+To support your experience:
+
+💧 **Hydrate:** Drink extra water to support your body's natural processes.
+
+🍃 **Take it slow:** Give yourself time to slow down and avoid high-stress activities when possible. Listen to your body and honour what it needs.
+
+🍎 **Eat something light:** A light, nourishing meal or warm drink supports your body.
+
+📝 **Notice changes:** You may notice subtle shifts over the next few days, such as better sleep or a calmer mind.

@@ -1,41 +1,60 @@
 ---
 layout: page
-title: Welcome to Lotus Path Wellness
+title: About Lotus Path Wellness
 ---
 
 ![Armita](/assets/img/armita.jpg){: .mx-auto.d-block style="max-width: 300px; border-radius: 50%; margin-bottom: 20px;" }
 
-My name is Armita Khosravi, and I founded Lotus Path Wellness out of a profound reverence for energy healing. I believe that true vitality isn't found in a single fix, but in the gentle nurturing of the mind, body, and spirit as one interconnected whole. I am so glad you have found your way here.
+My name is Armita Khosravi, and I created Lotus Path Wellness to support people in returning to a deeper sense of balance and inner steadiness.
 
-My journey into this work has been a path of curiosity and compassion—a quiet calling to help others navigate their way back to their own inner sanctuary. Currently, I specialize in Reiki energy healing, providing the calm, grounding support needed to clear the 'winter fog' and rediscover your natural balance.
+*I believe healing begins when we create space to slow down, soften, and reconnect with ourselves.*
 
-Whether we connect in person or through a distance session, I am honored to support you in this chapter of your healing journey.
+I'm so glad you've found your way here.
 
----
+If you're here, there may be a part of you ready for something softer... something more supportive. Maybe you've been feeling overwhelmed, disconnected, or simply in need of a moment to breathe.
 
-## What is Reiki
-
-Reiki is more than a technique; it is a gentle invitation for your system to return to its original state of harmony. By acting as a channel for universal life energy—flowing through my hands to your body's energetic field—I support your natural ability to restore and heal itself.
-
-During our time together, the nervous system begins to settle, physical and emotional tension melts away, and your energy naturally realigns.
-
-Clients often describe a session as a deep 'unwinding'—experiencing warmth, clarity, and a renewed sense of peace that lingers long after the session ends.
+This is a space where you can gently slow down and return to yourself.
 
 ---
 
-## Who This Supports
+## How I work
 
-Reiki meets you exactly where you are. It is particularly supportive if you find yourself:
+At Lotus Path Wellness, the focus is on you—your nervous system, your energy, your experience.
 
-- **Navigating the Heavy:** Feeling overwhelmed or emotionally weighed down.
-- **Searching for Rest:** Struggling with sleep or the inability to truly 'switch off'.
-- **Recovering from Burnout:** Restoring energy after periods of intense stress.
-- **Seeking Connection:** Feeling a quiet disconnect from your body or intuition.
-- **Prioritizing Wellness:** Simply looking for a gentle, non-invasive way to maintain your inner glow.
+You are met exactly where you are, without pressure or expectation.
+
+Reiki is a gentle energy healing practice that supports your body's natural ability to restore balance, helping you shift out of stress and into a calmer, more grounded state.
 
 ---
 
-**Ready to begin your healing journey?**
+## What you may experience
+
+During a session, many people notice:
+
+- Deep relaxation and a sense of calm
+- Release of physical or emotional tension
+- Greater clarity and mental ease
+- Feeling more present and grounded
+- Subtle sensations (warmth, tingling, gentle energy flow)
+- A quieter, more focused mind
+- Feeling rested and more connected to yourself
+
+*Every experience is unique—you may feel many of these, or nothing at all, and both are perfectly okay.*
+
+---
+
+## What to expect
+
+Sessions are offered in-home, mobile, or at a distance—whatever feels most comfortable for you.
+
+You'll remain fully clothed, and the session is designed to be a supportive, restful experience from beginning to end.
+
+There's nothing you need to do or prepare—simply arrive as you are.
+
+*You don't need to be in crisis to receive support.*
+*Sometimes, it's simply about giving yourself space to pause, breathe, and receive.*
+
+---
 
 <a href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" class="btn" style="border: 2px solid #7B5BA6; color: #7B5BA6; margin-right: 10px; border-radius: 20px;"><i class="fa fa-phone"></i> Free Call</a>
 <a href="https://calendly.com/lotuspathw/reiki-session" class="btn btn-primary" style="background-color: #7B5BA6; border-color: #7B5BA6; border-radius: 20px;"><i class="fa fa-calendar"></i> Book Session</a>

@@ -3,15 +3,13 @@ layout: page
 title: Contact
 ---
 
-I'd love to hear from you.
+If you have any questions or would like to book a session, feel free to reach out. I'm happy to connect and help you decide what feels right for you.
 
 **Email:** [lotuspathw@gmail.com](mailto:lotuspathw@gmail.com)
 
 **Instagram:** [@lotuspath.wellness](https://instagram.com/lotuspath.wellness)
 
-### Location
-
-Metro Vancouver Area, British Columbia
+**Location:** Serving Coquitlam and the Metro Vancouver area — offering in-home, mobile, and distance Reiki sessions.
 
 ---
 
