@@ -7,6 +7,10 @@ nav-short: true
 
 <div class="landing-hero">
   <canvas id="particle-canvas"></canvas>
+  <div class="landing-content">
+    <div class="landing-photo">
+      <img src="{{ '/assets/img/armita-home.jpg' | relative_url }}" alt="Armita Khosravi - Lotus Path Wellness">
+    </div>
   <div class="landing-overlay">
     <h1 class="landing-title">Reiki support for balance, grounding, and connection</h1>
     <p class="landing-subtitle">I support you if you're feeling overwhelmed or out of balance, helping you find more steadiness through Reiki.</p>
@@ -29,6 +33,7 @@ nav-short: true
       <a href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" class="btn" style="border: 2px solid #7B5BA6; color: #7B5BA6; background: white; border-radius: 30px; padding: 10px 28px; font-weight: 600; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 1px;">Free Call</a>
       <a href="https://calendly.com/lotuspathw/reiki-session" class="btn" style="border: 2px solid #7B5BA6; background-color: #7B5BA6; color: white; border-radius: 30px; padding: 10px 28px; font-weight: 600; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 1px;">Book Session</a>
     </div>
+  </div>
   </div>
 </div>
 
@@ -58,12 +63,46 @@ nav-short: true
   z-index: 1;
 }
 
-.landing-overlay {
+.landing-content {
   position: relative;
   z-index: 2;
-  text-align: center;
-  max-width: 620px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  max-width: 1200px;
+  width: 100%;
   padding: 2rem;
+}
+
+.landing-photo {
+  flex-shrink: 0;
+  position: relative;
+  order: 2;
+}
+
+.landing-photo::before {
+  content: "";
+  position: absolute;
+  inset: -20px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(155, 123, 198, 0.35) 0%, rgba(155, 123, 198, 0) 70%);
+  z-index: -1;
+}
+
+.landing-photo img {
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 10px 40px rgba(93, 78, 140, 0.25);
+}
+
+.landing-overlay {
+  text-align: center;
+  max-width: 540px;
+  flex-shrink: 1;
 }
 
 .landing-title {
@@ -176,6 +215,20 @@ nav-short: true
   text-decoration: none;
 }
 
+@media (max-width: 900px) {
+  .landing-content {
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .landing-photo {
+    order: 1;
+  }
+  .landing-photo img {
+    width: 220px;
+    height: 220px;
+  }
+}
+
 @media (max-width: 576px) {
   .landing-title {
     font-size: 1.7rem;
@@ -186,9 +239,10 @@ nav-short: true
   .landing-body p {
     font-size: 0.95rem;
   }
-  .landing-btn {
-    padding: 10px 24px;
-    font-size: 0.9rem;
+  .landing-photo img {
+    width: 180px;
+    height: 180px;
+    border-width: 3px;
   }
 }
 </style>
