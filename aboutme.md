@@ -54,9 +54,3 @@ There's nothing you need to do or prepare—simply arrive as you are.
 *You don't need to be in crisis to receive support.*
 *Sometimes, it's simply about giving yourself space to pause, breathe, and receive.*
 
----
-
-<a href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" class="btn" style="border: 2px solid #7B5BA6; color: #7B5BA6; margin-right: 10px; border-radius: 20px;"><i class="fa fa-phone"></i> Free Call</a>
-<a href="https://calendly.com/lotuspathw/reiki-session" class="btn btn-primary" style="background-color: #7B5BA6; border-color: #7B5BA6; border-radius: 20px;"><i class="fa fa-calendar"></i> Book Session</a>
-
-Or email me at [lotuspathw@gmail.com](mailto:lotuspathw@gmail.com)
