@@ -18,11 +18,7 @@
   <meta name="author" content="Lotus Path Wellness">
   
 
-  <meta name="description" content="Lotus Path Wellness
-    Gentle energy healing for your mind, body, and spirit
-    
-      Free Introductory Call
-      Book a Session">
+  <meta name="description" content="Reiki support for balance, grounding, and connection I support you if you&apos;re feeling overwhelmed or out of balance, helping you find more steadiness through Reiki. At Lotus Path Wellness, I offer Reiki sessions designed to support your nervous system, ease mental tension, and help you reconnect with yourself. Whether you&apos;re...">
 
   
 
@@ -101,11 +97,7 @@
   
   <meta property="og:site_name" content="Lotus Path Wellness">
   <meta property="og:title" content="Lotus Path Wellness">
-  <meta property="og:description" content="Lotus Path Wellness
-    Gentle energy healing for your mind, body, and spirit
-    
-      Free Introductory Call
-      Book a Session">
+  <meta property="og:description" content="Reiki support for balance, grounding, and connection I support you if you&apos;re feeling overwhelmed or out of balance, helping you find more steadiness through Reiki. At Lotus Path Wellness, I offer Reiki sessions designed to support your nervous system, ease mental tension, and help you reconnect with yourself. Whether you&apos;re...">
 
   
 
@@ -122,11 +114,7 @@
   <meta name="twitter:creator" content="@">
 
   <meta property="twitter:title" content="Lotus Path Wellness">
-  <meta property="twitter:description" content="Lotus Path Wellness
-    Gentle energy healing for your mind, body, and spirit
-    
-      Free Introductory Call
-      Book a Session">
+  <meta property="twitter:description" content="Reiki support for balance, grounding, and connection I support you if you&apos;re feeling overwhelmed or out of balance, helping you find more steadiness through Reiki. At Lotus Path Wellness, I offer Reiki sessions designed to support your nervous system, ease mental tension, and help you reconnect with yourself. Whether you&apos;re...">
 
   
 
@@ -285,15 +273,30 @@
   }
   </script>
 
-  <main>
+  <main class="landing-main">
   <div class="landing-hero">
   <canvas id="particle-canvas"></canvas>
   <div class="landing-overlay">
-    <h1 class="landing-title">Lotus Path Wellness</h1>
-    <p class="landing-tagline">Gentle energy healing for your mind, body, and spirit</p>
+    <h1 class="landing-title">Reiki support for balance, grounding, and connection</h1>
+    <p class="landing-subtitle">I support you if you're feeling overwhelmed or out of balance, helping you find more steadiness through Reiki.</p>
+
+    <div class="landing-body">
+      <p>At Lotus Path Wellness, I offer Reiki sessions designed to support your nervous system, ease mental tension, and help you reconnect with yourself.</p>
+      <p>Whether you're feeling stressed, disconnected, or simply in need of space to breathe, this is a place where you can slow down and reset.</p>
+
+      <h2 class="landing-offerings-title">I offer:</h2>
+      <ul class="landing-offerings">
+        <li>In-home Reiki sessions</li>
+        <li>Mobile Reiki sessions</li>
+        <li>Distance Reiki sessions</li>
+      </ul>
+
+      <p class="landing-closing">If you're unsure where to begin, you're welcome to book a free introductory call to ask questions and see what feels right for you.</p>
+    </div>
+
     <div class="landing-cta">
-      <a href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" class="btn landing-btn landing-btn-outline">Free Introductory Call</a>
-      <a href="https://calendly.com/lotuspathw/reiki-session" class="btn landing-btn landing-btn-fill">Book a Session</a>
+      <a href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" class="btn" style="border: 2px solid #7B5BA6; color: #7B5BA6; background: white; border-radius: 30px; padding: 10px 28px; font-weight: 600; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 1px;">Free Call</a>
+      <a href="https://calendly.com/lotuspathw/reiki-session" class="btn" style="border: 2px solid #7B5BA6; background-color: #7B5BA6; color: white; border-radius: 30px; padding: 10px 28px; font-weight: 600; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 1px;">Book Session</a>
     </div>
   </div>
 </div>
@@ -306,6 +309,7 @@
   width: 100%;
   min-height: 100vh;
   margin-top: -120px;
+  margin-bottom: -50px;
   padding-top: 120px;
   display: flex;
   align-items: center;
@@ -327,24 +331,76 @@
   position: relative;
   z-index: 2;
   text-align: center;
+  max-width: 620px;
   padding: 2rem;
 }
 
 .landing-title {
   font-family: 'Open Sans', sans-serif;
-  font-size: 3rem;
+  font-size: 2.2rem;
   font-weight: 700;
   color: #5D4E8C;
-  margin-bottom: 0.75rem;
-  letter-spacing: 1px;
+  margin-bottom: 1.25rem;
+  line-height: 1.3;
 }
 
-.landing-tagline {
+.landing-subtitle {
   font-family: 'Lora', serif;
-  font-size: 1.3rem;
-  color: #7B5BA6;
-  margin-bottom: 2.5rem;
+  font-size: 1.05rem;
+  color: #6B5A99;
+  line-height: 1.75;
   font-style: italic;
+  margin-bottom: 2rem;
+}
+
+.landing-body {
+  text-align: left;
+}
+
+.landing-body p,
+.landing-offerings li,
+.landing-closing {
+  font-family: 'Lora', serif;
+  font-size: 1rem;
+  color: #404040;
+  line-height: 1.8;
+}
+
+.landing-body p {
+  margin-bottom: 0.85rem;
+}
+
+.landing-offerings-title {
+  font-family: 'Lora', serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #404040;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.landing-offerings {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.25rem 0;
+}
+
+.landing-offerings li {
+  padding: 0.3rem 0 0.3rem 1.25rem;
+  position: relative;
+}
+
+.landing-offerings li::before {
+  content: "\2022";
+  color: #7B5BA6;
+  font-size: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.25rem;
+}
+
+.landing-closing {
+  margin-bottom: 0;
 }
 
 .landing-cta {
@@ -352,6 +408,7 @@
   gap: 1rem;
   justify-content: center;
   flex-wrap: wrap;
+  margin-top: 2rem;
 }
 
 .landing-btn {
@@ -390,10 +447,13 @@
 
 @media (max-width: 576px) {
   .landing-title {
-    font-size: 2rem;
+    font-size: 1.7rem;
   }
-  .landing-tagline {
-    font-size: 1.1rem;
+  .landing-subtitle {
+    font-size: 1rem;
+  }
+  .landing-body p {
+    font-size: 0.95rem;
   }
   .landing-btn {
     padding: 10px 24px;
@@ -403,6 +463,12 @@
 </style>
 
 </main>
+
+<style>
+.landing-main {
+  flex: 0 !important;
+}
+</style>
 
 
   <footer>
