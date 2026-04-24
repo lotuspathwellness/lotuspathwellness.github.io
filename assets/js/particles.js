@@ -19,8 +19,12 @@
   ];
 
   function resize() {
-    canvas.width = canvas.offsetWidth;
-    canvas.height = canvas.offsetHeight;
+    var rect = canvas.getBoundingClientRect();
+    var w = Math.round(rect.width);
+    var h = Math.round(rect.height);
+    if (w === 0 || h === 0) return;
+    if (canvas.width !== w) canvas.width = w;
+    if (canvas.height !== h) canvas.height = h;
   }
 
   function createParticle() {
@@ -134,10 +138,24 @@
     mouse.y = null;
   });
 
-  window.addEventListener('resize', function () {
-    resize();
-  });
+  window.addEventListener('resize', resize);
+  window.addEventListener('orientationchange', resize);
 
-  init();
-  animate();
+  if (typeof ResizeObserver !== 'undefined') {
+    var ro = new ResizeObserver(resize);
+    ro.observe(canvas);
+  }
+
+  function start() {
+    requestAnimationFrame(function () {
+      init();
+      animate();
+    });
+  }
+
+  if (document.readyState === 'complete') {
+    start();
+  } else {
+    window.addEventListener('load', start);
+  }
 })();
