@@ -1,8 +1,122 @@
 ---
-layout: page
-title: Welcome to Lotus Path Wellness
+layout: landing
+title: Lotus Path Wellness
+show-avatar: false
+nav-short: true
 ---
 
-<p style="text-align: center; font-size: 1.2rem; color: #5D4E8C;">
-  Content coming soon — check back shortly!
-</p>
+<div class="landing-hero">
+  <canvas id="particle-canvas"></canvas>
+  <div class="landing-overlay">
+    <h1 class="landing-title">Lotus Path Wellness</h1>
+    <p class="landing-tagline">Gentle energy healing for your mind, body, and spirit</p>
+    <div class="landing-cta">
+      <a href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" class="btn landing-btn landing-btn-outline">Free Introductory Call</a>
+      <a href="https://calendly.com/lotuspathw/reiki-session" class="btn landing-btn landing-btn-fill">Book a Session</a>
+    </div>
+  </div>
+</div>
+
+<script src="{{ '/assets/js/particles.js' | relative_url }}"></script>
+
+<style>
+.landing-hero {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  margin-top: -120px;
+  padding-top: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: linear-gradient(135deg, #F5F0FA 0%, #EDE4F5 40%, #E0D4EE 100%);
+}
+
+#particle-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.landing-overlay {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 2rem;
+}
+
+.landing-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #5D4E8C;
+  margin-bottom: 0.75rem;
+  letter-spacing: 1px;
+}
+
+.landing-tagline {
+  font-family: 'Lora', serif;
+  font-size: 1.3rem;
+  color: #7B5BA6;
+  margin-bottom: 2.5rem;
+  font-style: italic;
+}
+
+.landing-cta {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.landing-btn {
+  border-radius: 25px;
+  padding: 12px 32px;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.landing-btn-outline {
+  border: 2px solid #7B5BA6;
+  color: #7B5BA6;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.landing-btn-outline:hover {
+  background: #7B5BA6;
+  color: white;
+  text-decoration: none;
+}
+
+.landing-btn-fill {
+  background-color: #7B5BA6;
+  border: 2px solid #7B5BA6;
+  color: white;
+}
+
+.landing-btn-fill:hover {
+  background-color: #5D4E8C;
+  border-color: #5D4E8C;
+  color: white;
+  text-decoration: none;
+}
+
+@media (max-width: 576px) {
+  .landing-title {
+    font-size: 2rem;
+  }
+  .landing-tagline {
+    font-size: 1.1rem;
+  }
+  .landing-btn {
+    padding: 10px 24px;
+    font-size: 0.9rem;
+  }
+}
+</style>

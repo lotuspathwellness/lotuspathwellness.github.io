@@ -1,0 +1,1209 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  
+
+  <title>Blog | Lotus Path Wellness</title>
+
+  
+  
+  <meta name="author" content="Lotus Path Wellness">
+  
+
+  <meta name="description" content="This is where I share my love for Reiki… and maybe get a little carried away! {% for post in site.posts %} {%- capture thumbnail -%} {% if post.thumbnail-img %} {{ post.thumbnail-img }} {% elsif post.cover-img %} {% if post.cover-img.first %} {{ post.cover-img[0].first.first }} {% else %} {{ post.cover-img }}...">
+
+  
+
+  
+  <meta name="keywords" content="reiki, energy healing, wellness, Vancouver, Coquitlam, BC, distance reiki, holistic healing, stress relief, anxiety relief">
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="Lotus Path Wellness" href="http://localhost:4000/feed.xml">
+  
+
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9NC5W4QXQ9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-9NC5W4QXQ9');
+</script>
+
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/custom.css">
+    
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="Lotus Path Wellness">
+  <meta property="og:title" content="Blog | Lotus Path Wellness">
+  <meta property="og:description" content="This is where I share my love for Reiki… and maybe get a little carried away! {% for post in site.posts %} {%- capture thumbnail -%} {% if post.thumbnail-img %} {{ post.thumbnail-img }} {% elsif post.cover-img %} {% if post.cover-img.first %} {{ post.cover-img[0].first.first }} {% else %} {{ post.cover-img }}...">
+
+  
+
+  
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:4000/blog/">
+  <link rel="canonical" href="http://localhost:4000/blog/">
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+
+  <meta property="twitter:title" content="Blog | Lotus Path Wellness">
+  <meta property="twitter:description" content="This is where I share my love for Reiki… and maybe get a little carried away! {% for post in site.posts %} {%- capture thumbnail -%} {% if post.thumbnail-img %} {{ post.thumbnail-img }} {% elsif post.cover-img %} {% if post.cover-img.first %} {{ post.cover-img[0].first.first }} {% else %} {{ post.cover-img }}...">
+
+  
+
+  
+
+
+  
+
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/Logo.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/Logo.png" />
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Lotus Path Wellness",
+    "description": "Lotus Path Wellness offers Reiki energy healing sessions in Metro Vancouver and distance sessions worldwide. Restore balance, reduce stress, and reconnect with your inner calm.",
+    "url": "https://lotuspathwellness.ca",
+    "image": "http://localhost:4000/assets/img/Logo.png",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Coquitlam",
+      "addressRegion": "BC",
+      "addressCountry": "CA"
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Coquitlam"
+      },
+      {
+        "@type": "Place",
+        "name": "Metro Vancouver"
+      }
+    ],
+    "serviceType": ["Reiki", "Energy Healing", "Distance Reiki"],
+    "sameAs": [
+      "https://www.instagram.com/lotuspath.wellness/"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Lotus Path Wellness",
+    "url": "https://lotuspathwellness.ca"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "SiteNavigationElement",
+        "name": "About",
+        "url": "https://lotuspathwellness.ca/aboutme"
+      },
+      {
+        "@type": "SiteNavigationElement",
+        "name": "Services",
+        "url": "https://lotuspathwellness.ca/services"
+      },
+      {
+        "@type": "SiteNavigationElement",
+        "name": "FAQ",
+        "url": "https://lotuspathwellness.ca/faq"
+      },
+      {
+        "@type": "SiteNavigationElement",
+        "name": "Contact",
+        "url": "https://lotuspathwellness.ca/contact"
+      }
+    ]
+  }
+  </script>
+  
+
+  
+
+</head>
+
+
+<body>
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand navbar-brand-logo" href="http://localhost:4000/"><img alt="Lotus Path Wellness Logo" src="/assets/img/Logo.png"/></a>
+    <a class="navbar-brand navbar-brand-text" href="http://localhost:4000/">
+      <span class="brand-title">LOTUS PATH</span>
+      <span class="brand-subtitle">WELLNESS</span>
+    </a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/services">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/aboutme">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/blog">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/faq">FAQ</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/contact">Contact</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://instagram.com/lotuspath.wellness" title="Instagram">
+            <span class="fab fa-instagram"></span>
+          </a>
+        </li>
+      
+        <li class="nav-item">
+          <a class="nav-link btn btn-outline-primary btn-sm ml-2" href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" title="Free Call" style="border-radius: 20px; padding: 5px 15px;">
+            Free Call
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary btn-sm ml-2" href="https://calendly.com/lotuspathw/reiki-session" title="Book Session" style="color: white; border-radius: 20px; padding: 5px 15px;">
+            Book Session
+          </a>
+        </li>
+    </ul>
+  </div>
+
+  
+
+  
+
+</nav>
+
+
+
+  <div id="thank-you-banner" style="display: none; background-color: #7B5BA6; color: white; padding: 15px; text-align: center; position: relative;">
+    Thank you for contacting us! Your message has been submitted.
+    <button onclick="document.getElementById('thank-you-banner').style.display='none'" style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%); background: none; border: none; color: white; font-size: 20px; cursor: pointer; padding: 0; line-height: 1;">&times;</button>
+  </div>
+
+  <script>
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('submitted') === 'true') {
+    document.getElementById('thank-you-banner').style.display = 'block';
+    window.history.replaceState({}, document.title, window.location.pathname);
+  }
+  </script>
+
+  
+
+
+
+<header class="header-section ">
+<div class="intro-header ">
+  
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="page-heading">
+          <h1>Blog</h1>
+          
+          
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+
+
+</header>
+
+
+<main class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+      
+
+      <p>This is where I share my love for Reiki… and maybe get a little carried away!</p>
+
+<hr style="margin: 2rem 0;">
+
+<ul class="posts-list list-unstyled" role="list">
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://localhost:4000/2026-02-28-reiki-and-pain-management/">
+        <h2 class="post-title">Reiki and Pain Management</h2>
+
+        
+          <h3 class="post-subtitle">
+          What research reveals about chronic pain, fibromyalgia, and post-surgical recovery
+          </h3>
+        
+      </a>
+
+      
+        <span>By <strong>Lotus Path Wellness</strong></span>
+      
+      <p class="post-meta">
+        
+        Posted on February 28, 2026
+      </p>
+
+      
+      <div class="post-image post-image-small">
+        <a href="http://localhost:4000/2026-02-28-reiki-and-pain-management/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-pain-management.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      
+      
+      <div class="post-image post-image-short">
+        <a href="http://localhost:4000/2026-02-28-reiki-and-pain-management/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-pain-management.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      <div class="post-entry">
+        
+        Pain is one of the most common reasons people seek complementary therapies. Whether it’s chronic pain that has persisted for years, the widespread discomfort of fibromyalgia, or the acute pain following surgery, finding relief becomes a central focus of daily life.
+
+        
+        
+          <a href="http://localhost:4000/2026-02-28-reiki-and-pain-management/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#reiki">reiki</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#pain">pain</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#chronic pain">chronic pain</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#fibromyalgia">fibromyalgia</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#surgery">surgery</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#research">research</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#healing">healing</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://localhost:4000/2026-02-15-preparing-for-your-first-reiki-session/">
+        <h2 class="post-title">Preparing for Your First Reiki Session</h2>
+
+        
+          <h3 class="post-subtitle">
+          What to expect, how to prepare, and answers to common questions
+          </h3>
+        
+      </a>
+
+      
+        <span>By <strong>Lotus Path Wellness</strong></span>
+      
+      <p class="post-meta">
+        
+        Posted on February 15, 2026
+      </p>
+
+      
+      <div class="post-image post-image-small">
+        <a href="http://localhost:4000/2026-02-15-preparing-for-your-first-reiki-session/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/first-reiki-session.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      
+      
+      <div class="post-image post-image-short">
+        <a href="http://localhost:4000/2026-02-15-preparing-for-your-first-reiki-session/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/first-reiki-session.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      <div class="post-entry">
+        
+        If you’re considering your first Reiki session, you might be wondering what to expect. Perhaps you’ve heard about Reiki from a friend, read about its benefits, or simply feel drawn to try something new for your well-being. Whatever brought you here, this guide will help you feel prepared and at...
+        
+        
+          <a href="http://localhost:4000/2026-02-15-preparing-for-your-first-reiki-session/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#reiki">reiki</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#beginners">beginners</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#wellness">wellness</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#self-care">self-care</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#healing">healing</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://localhost:4000/2026-01-25-reiki-for-stress-in-modern-life/">
+        <h2 class="post-title">Reiki for Stress in Modern Life</h2>
+
+        
+          <h3 class="post-subtitle">
+          Finding calm amid workplace pressure, caregiver demands, and daily overwhelm
+          </h3>
+        
+      </a>
+
+      
+        <span>By <strong>Lotus Path Wellness</strong></span>
+      
+      <p class="post-meta">
+        
+        Posted on January 25, 2026
+      </p>
+
+      
+      <div class="post-image post-image-small">
+        <a href="http://localhost:4000/2026-01-25-reiki-for-stress-in-modern-life/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/modern-stress-reiki.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      
+      
+      <div class="post-image post-image-short">
+        <a href="http://localhost:4000/2026-01-25-reiki-for-stress-in-modern-life/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/modern-stress-reiki.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      <div class="post-entry">
+        
+        Modern life asks a lot of us. We navigate demanding jobs, care for loved ones, manage households, and somehow try to maintain our own well-being in the process. It’s no wonder that chronic stress has become the backdrop of daily existence for so many.
+
+        
+        
+          <a href="http://localhost:4000/2026-01-25-reiki-for-stress-in-modern-life/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#reiki">reiki</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#stress">stress</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#burnout">burnout</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#workplace">workplace</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#caregivers">caregivers</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#research">research</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#wellness">wellness</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://localhost:4000/2026-01-12-signs-you-might-benefit-from-reiki/">
+        <h2 class="post-title">Signs You Might Benefit from Reiki</h2>
+
+        
+          <h3 class="post-subtitle">
+          When to consider trying this gentle healing practice
+          </h3>
+        
+      </a>
+
+      
+        <span>By <strong>Lotus Path Wellness</strong></span>
+      
+      <p class="post-meta">
+        
+        Posted on January 12, 2026
+      </p>
+
+      
+      <div class="post-image post-image-small">
+        <a href="http://localhost:4000/2026-01-12-signs-you-might-benefit-from-reiki/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-signs.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      
+      
+      <div class="post-image post-image-short">
+        <a href="http://localhost:4000/2026-01-12-signs-you-might-benefit-from-reiki/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-signs.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      <div class="post-entry">
+        
+        Sometimes our bodies and minds send us signals that something is out of balance. We might dismiss these signs as “just stress” or push through, hoping things will improve on their own. But what if these signals are actually invitations to explore a gentler way of restoring equilibrium?
+
+        
+        
+          <a href="http://localhost:4000/2026-01-12-signs-you-might-benefit-from-reiki/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#reiki">reiki</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#wellness">wellness</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#stress">stress</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#anxiety">anxiety</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#self-care">self-care</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#healing">healing</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://localhost:4000/2026-01-02-reiki-for-different-life-stages/">
+        <h2 class="post-title">Reiki for Every Stage of Life</h2>
+
+        
+          <h3 class="post-subtitle">
+          Research-backed support for pregnancy, postpartum, menopause, and aging
+          </h3>
+        
+      </a>
+
+      
+        <span>By <strong>Lotus Path Wellness</strong></span>
+      
+      <p class="post-meta">
+        
+        Posted on January 2, 2026
+      </p>
+
+      
+      <div class="post-image post-image-small">
+        <a href="http://localhost:4000/2026-01-02-reiki-for-different-life-stages/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-life-stages.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      
+      
+      <div class="post-image post-image-short">
+        <a href="http://localhost:4000/2026-01-02-reiki-for-different-life-stages/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-life-stages.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      <div class="post-entry">
+        
+        Life is a journey through distinct seasons, each with its own joys and challenges. From the anticipation of pregnancy to the wisdom of our later years, our bodies and minds undergo profound transformations. What if there were a gentle, non-invasive practice that could support you through each of these transitions?...
+        
+        
+          <a href="http://localhost:4000/2026-01-02-reiki-for-different-life-stages/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#reiki">reiki</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#pregnancy">pregnancy</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#postpartum">postpartum</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#menopause">menopause</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#aging">aging</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#research">research</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#women's health">women's health</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://localhost:4000/2025-12-21-science-behind-energy-healing/">
+        <h2 class="post-title">The Science Behind Energy Healing</h2>
+
+        
+          <h3 class="post-subtitle">
+          Understanding biofield, meridians, and the human energy system
+          </h3>
+        
+      </a>
+
+      
+        <span>By <strong>Lotus Path Wellness</strong></span>
+      
+      <p class="post-meta">
+        
+        Posted on December 21, 2025
+      </p>
+
+      
+      <div class="post-image post-image-small">
+        <a href="http://localhost:4000/2025-12-21-science-behind-energy-healing/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/biofield-science.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      
+      
+      <div class="post-image post-image-short">
+        <a href="http://localhost:4000/2025-12-21-science-behind-energy-healing/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/biofield-science.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      <div class="post-entry">
+        
+        When people first encounter energy healing practices like Reiki, a common question arises: “Is there any science behind this?” It’s a fair question. While ancient healing traditions have understood energy flow for thousands of years, modern science is now beginning to explore and measure these phenomena in fascinating ways.
+
+        
+        
+          <a href="http://localhost:4000/2025-12-21-science-behind-energy-healing/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#reiki">reiki</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#science">science</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#biofield">biofield</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#energy">energy</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#research">research</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://localhost:4000/2025-12-03-reiki-quality-of-life-research/">
+        <h2 class="post-title">New Research Shows Reiki Improves Quality of Life</h2>
+
+        
+          <h3 class="post-subtitle">
+          A 2025 meta-analysis of 661 participants demonstrates significant benefits
+          </h3>
+        
+      </a>
+
+      
+        <span>By <strong>Lotus Path Wellness</strong></span>
+      
+      <p class="post-meta">
+        
+        Posted on December 3, 2025
+      </p>
+
+      
+      <div class="post-image post-image-small">
+        <a href="http://localhost:4000/2025-12-03-reiki-quality-of-life-research/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-qol-research.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      
+      
+      <div class="post-image post-image-short">
+        <a href="http://localhost:4000/2025-12-03-reiki-quality-of-life-research/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-qol-research.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      <div class="post-entry">
+        
+        A brand new 2025 meta-analysis published in Systematic Reviews provides fresh scientific evidence that Reiki therapy significantly improves quality of life. This comprehensive study analyzed 11 randomized controlled trials involving 661 participants, offering robust support for Reiki as a complementary wellness practice.
+
+        
+        
+          <a href="http://localhost:4000/2025-12-03-reiki-quality-of-life-research/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#reiki">reiki</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#research">research</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#quality of life">quality of life</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#science">science</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#evidence-based">evidence-based</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://localhost:4000/2025-11-23-reiki-anxiety-research/">
+        <h2 class="post-title">Scientific Evidence for Reiki's Impact on Anxiety</h2>
+
+        
+          <h3 class="post-subtitle">
+          A 2024 meta-analysis reveals significant anxiety reduction across 824 participants
+          </h3>
+        
+      </a>
+
+      
+        <span>By <strong>Lotus Path Wellness</strong></span>
+      
+      <p class="post-meta">
+        
+        Posted on November 23, 2025
+      </p>
+
+      
+      <div class="post-image post-image-small">
+        <a href="http://localhost:4000/2025-11-23-reiki-anxiety-research/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-research.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      
+      
+      <div class="post-image post-image-short">
+        <a href="http://localhost:4000/2025-11-23-reiki-anxiety-research/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-research.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      <div class="post-entry">
+        
+        For those who wonder whether Reiki has scientific backing, a comprehensive 2024 meta-analysis published in BMC Palliative Care offers compelling evidence. This rigorous study examined 13 randomized controlled trials involving 824 adult participants, revealing that Reiki therapy significantly reduces anxiety.
+
+        
+        
+          <a href="http://localhost:4000/2025-11-23-reiki-anxiety-research/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#reiki">reiki</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#research">research</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#anxiety">anxiety</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#science">science</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#evidence-based">evidence-based</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://localhost:4000/2025-11-06-what-is-reiki/">
+        <h2 class="post-title">What is Reiki?</h2>
+
+        
+          <h3 class="post-subtitle">
+          An ancient healing practice for modern wellness
+          </h3>
+        
+      </a>
+
+      
+        <span>By <strong>Lotus Path Wellness</strong></span>
+      
+      <p class="post-meta">
+        
+        Posted on November 6, 2025
+      </p>
+
+      
+      <div class="post-image post-image-small">
+        <a href="http://localhost:4000/2025-11-06-what-is-reiki/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-hands.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      
+      
+      <div class="post-image post-image-short">
+        <a href="http://localhost:4000/2025-11-06-what-is-reiki/" aria-label="Thumbnail">
+          <img src="http://localhost:4000/assets/img/reiki-hands.jpg" alt="Post thumbnail">
+        </a>
+      </div>
+      
+
+      <div class="post-entry">
+        
+        Reiki is a Japanese energy healing technique that promotes relaxation, reduces stress, and supports the body’s natural ability to heal. The word “Reiki” comes from two Japanese words: Rei (universal) and Ki (life energy).
+
+        
+        
+          <a href="http://localhost:4000/2025-11-06-what-is-reiki/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#reiki">reiki</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#healing">healing</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#wellness">wellness</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://localhost:4000/tags#energy">energy</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
+  
+</ul>
+
+
+      
+
+      
+
+    </div>
+  </div>
+</main>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      
+<ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="/contact" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://www.instagram.com/lotuspath.wellness" title="Instagram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Instagram</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://calendly.com/lotuspathw/reiki-session" title="Schedule a meeting with me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-calendar-check fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Schedule a meeting with me</span>
+   </a>
+  </li></ul>
+
+
+      
+      <p class="footer-links text-muted" style="margin-bottom: 0.5rem; text-align: center;">
+        <a href="/terms">Terms</a>
+        &nbsp;&bull;&nbsp;
+        <a href="/privacy">Privacy & Care</a>
+        &nbsp;&bull;&nbsp;
+        <a href="/faq">FAQ</a>
+        &nbsp;&bull;&nbsp;
+        <a href="/contact">Contact</a>
+      </p>
+      <p class="copyright text-muted">
+      
+        Lotus Path Wellness
+        &nbsp;&bull;&nbsp;
+      
+      2025
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">lotuspathwellness.ca</a>
+        </span>
+      
+
+      
+
+      
+
+      </p>
+      
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>
