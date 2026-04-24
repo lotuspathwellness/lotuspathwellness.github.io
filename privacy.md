@@ -37,10 +37,6 @@ You have the right to:
 - Ask for corrections or the complete deletion of your data.
 - Withdraw your consent for information use at any time.
 
-## Children's Privacy
-
-Our services are designed for adults. Lotus Path Wellness does not knowingly collect information from children under the age of 13.
-
 ## Questions or Concerns
 
 If you have any questions regarding your privacy or how your information is handled, please feel free to [contact me](/contact).

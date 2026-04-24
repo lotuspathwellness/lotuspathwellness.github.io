@@ -8,6 +8,7 @@
   var mouse = { x: null, y: null };
   var breathPhase = 0;
   var speed = window.innerWidth > 768 ? 0.5 : 1;
+  var isTouch = false;
 
   var colors = [
     { r: 123, g: 91, b: 166 },   // #7B5BA6
@@ -69,7 +70,7 @@
         var dy = mouse.y - p.y;
         var dist = Math.sqrt(dx * dx + dy * dy);
         if (dist < 300 && dist > 1) {
-          var force = 0.04 * speed / dist;
+          var force = (isTouch ? 0.25 : 0.04 * speed) / dist;
           p.vx += dx * force;
           p.vy += dy * force;
         }
@@ -103,6 +104,7 @@
   }
 
   canvas.addEventListener('mousemove', function (e) {
+    isTouch = false;
     var rect = canvas.getBoundingClientRect();
     mouse.x = e.clientX - rect.left;
     mouse.y = e.clientY - rect.top;
@@ -113,7 +115,15 @@
     mouse.y = null;
   });
 
+  canvas.addEventListener('touchstart', function (e) {
+    isTouch = true;
+    var rect = canvas.getBoundingClientRect();
+    mouse.x = e.touches[0].clientX - rect.left;
+    mouse.y = e.touches[0].clientY - rect.top;
+  }, { passive: true });
+
   canvas.addEventListener('touchmove', function (e) {
+    isTouch = true;
     var rect = canvas.getBoundingClientRect();
     mouse.x = e.touches[0].clientX - rect.left;
     mouse.y = e.touches[0].clientY - rect.top;
