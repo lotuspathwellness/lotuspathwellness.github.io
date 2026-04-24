@@ -23,8 +23,10 @@ author: Lotus Path Wellness
 ###############################################
 
 navbar-links:
-  About: "aboutme"
+  Home: "/"
   Services: "services"
+  About: "aboutme"
+  Blog: "blog"
   FAQ: "faq"
   Contact: "contact"
 
