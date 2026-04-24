@@ -3,6 +3,41 @@ layout: page
 title: FAQ
 ---
 
+<style>
+html {
+  background-image: url('/assets/img/lotus-bg.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+body {
+  background: rgba(245, 240, 250, 0.45) !important;
+}
+
+main.container-md .row > div {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  background-image: none !important;
+  border-radius: 16px;
+  padding: 2.5rem 2rem;
+  box-shadow: 0 4px 30px rgba(93, 78, 140, 0.2);
+  backdrop-filter: blur(2px);
+}
+
+footer {
+  background: #ffffff;
+  position: relative;
+  z-index: 2;
+}
+
+@media (max-width: 576px) {
+  main.container-md .row > div {
+    padding: 1.5rem 1.25rem;
+  }
+}
+</style>
+
 ## The Basics
 
 **What is Reiki?**
