@@ -140,4 +140,4 @@ All that's required is your openness to receive.
 
 ---
 
-*Ready to experience Reiki for yourself? [Contact me](/email) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to learn more about what to expect.*
+*Ready to experience Reiki for yourself? [Contact me](/contact) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to learn more about what to expect.*

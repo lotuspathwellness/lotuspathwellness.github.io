@@ -126,4 +126,4 @@ The beauty of Reiki is that it meets you wherever you are. It doesn't require yo
 - [Effects of Reiki on Anxiety, Depression, Pain, and Physiological Factors in Community-Dwelling Older Adults](https://pubmed.ncbi.nlm.nih.gov/20635803/)
 - [Therapeutic Effects of Reiki on Interventions for Anxiety: A Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11170819/)
 
-*Navigating a life transition and curious about Reiki? [Contact me](/email) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to learn more.*
+*Navigating a life transition and curious about Reiki? [Contact me](/contact) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to learn more.*

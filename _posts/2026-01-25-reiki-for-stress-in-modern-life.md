@@ -131,4 +131,4 @@ The research suggests what practitioners have long observed: when given the chan
 - [Reiki for Reducing Cortisol and Anxiety in Cardiac Patients](https://academic.oup.com/eurjcn/article/23/7/771/7656909)
 - [Current Status of Reiki Research 2024](https://centerforreikiresearch.com/2024/10/11/current-status-of-reiki-research-2024/)
 
-*Feeling the weight of modern life? [Contact me](/email) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to explore how Reiki might help.*
+*Feeling the weight of modern life? [Contact me](/contact) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to explore how Reiki might help.*

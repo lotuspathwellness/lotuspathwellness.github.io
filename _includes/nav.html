@@ -39,19 +39,6 @@
             <span class="fa fa-home"></span>
           </a>
         </li>
-      {% if site.post_search %}
-        <li class="nav-item">
-          <a class="nav-link" id="nav-search-link" href="#" title="Search">
-            <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">Search</span>
-          </a>
-        </li>
-      {%- endif -%}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ '/email' | relative_url }}" title="Send a Message">
-            <span class="fa fa-envelope"></span>
-          </a>
-        </li>
       {% if site.social-network-links.instagram %}
         <li class="nav-item">
           <a class="nav-link" href="https://instagram.com/{{ site.social-network-links.instagram }}" title="Instagram">
@@ -90,4 +77,3 @@
 
 </nav>
 
-{% include search.html %}

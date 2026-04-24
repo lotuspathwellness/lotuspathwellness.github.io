@@ -183,4 +183,4 @@ For those living with pain—whether chronic, acute, or somewhere in between—R
 - [Use of Reiki for Pain Control in Post-Surgical Patients: A Critical Review](https://cdr.lib.unc.edu/downloads/pr76f4986)
 - [Current Status of Reiki Research 2024](https://centerforreikiresearch.com/2024/10/11/current-status-of-reiki-research-2024/)
 
-*Living with pain and curious about Reiki? [Contact me](/email) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to explore if it might help.*
+*Living with pain and curious about Reiki? [Contact me](/contact) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to explore if it might help.*

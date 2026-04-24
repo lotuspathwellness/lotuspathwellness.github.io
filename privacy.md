@@ -43,6 +43,6 @@ Our services are designed for adults. Lotus Path Wellness does not knowingly col
 
 ## Questions or Concerns
 
-If you have any questions regarding your privacy or how your information is handled, please feel free to [contact me](/email).
+If you have any questions regarding your privacy or how your information is handled, please feel free to [contact me](/contact).
 
 Lotus Path Wellness is committed to maintaining a safe, respectful, and confidential healing environment.

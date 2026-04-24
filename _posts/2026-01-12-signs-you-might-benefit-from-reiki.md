@@ -117,4 +117,4 @@ Many people find that even one session provides noticeable relief, while regular
 - [Reiki: How Energy Healing Works - Cleveland Clinic](https://health.clevelandclinic.org/reiki)
 - [What Is Reiki? Benefits and Risks - Healthline](https://www.healthline.com/health/reiki)
 
-*Curious whether Reiki might help you? [Contact me](/email) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to explore if it's right for you.*
+*Curious whether Reiki might help you? [Contact me](/contact) to ask questions or [book a free call](https://calendly.com/armitakhosravi/introductory-call-first-time-clients) to explore if it's right for you.*
