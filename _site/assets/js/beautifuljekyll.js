@@ -25,6 +25,14 @@ let BeautifulJekyllJS = {
       $(".navbar").removeClass("top-nav-expanded");
     });
 
+    // Close mobile navbar when tapping outside of it
+    $(document).on('click touchstart', function (e) {
+      var $navbar = $('#main-navbar');
+      if ($navbar.hasClass('show') && !$(e.target).closest('.navbar').length) {
+        $navbar.collapse('hide');
+      }
+    });
+
     // show the big header image
     BeautifulJekyllJS.initImgs();
 
