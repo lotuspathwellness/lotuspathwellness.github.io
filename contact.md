@@ -44,7 +44,7 @@ If you have any questions or would like to book a session, feel free to reach ou
 
 **Instagram:** [@lotuspath.wellness](https://instagram.com/lotuspath.wellness)
 
-**Location:** Serving Coquitlam and the Metro Vancouver area — offering in-home, mobile, and distance Reiki sessions.
+**Location:** Serving Coquitlam and the Metro Vancouver area
 
 ---
 
