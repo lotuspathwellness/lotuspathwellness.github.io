@@ -56,3 +56,17 @@ You can book directly using the link below. If you have any questions, please bo
 If you'd like to connect first, you're welcome to book a short introductory call. This is a gentle space to ask questions and understand how Reiki may support you.
 
 <a href="https://calendly.com/armitakhosravi/introductory-call-first-time-clients" class="btn" style="border: 2px solid #7B5BA6; color: #7B5BA6; border-radius: 20px;"><i class="fa fa-phone"></i> Book a Free Call</a>
+
+---
+
+## Payment & Cancellation Policy
+
+To confirm your booking, please send payment via e-transfer to **lotuspathw@gmail.com**.
+
+Once your session is booked and payment is received, your time is reserved just for you.
+
+I understand that life can be unpredictable, and plans sometimes need to change. If you need to cancel or reschedule, I kindly ask for at least **24 hours' notice**. With enough notice, your payment can be applied to a new session time or refunded in full.
+
+Cancellations made less than 24 hours before the session, as well as missed appointments, are non-refundable.
+
+If something unexpected or urgent comes up, please reach out and I'll support you as best I can.
